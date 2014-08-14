@@ -1,0 +1,32 @@
+button {
+	border: 2px solid #008000;
+	background: #126E12; 
+	padding: 10px 1px;
+	color: white;
+	width: 200px;
+	font-size: 11pt;
+	}
+button:hover {
+	background: #15B315; 
+	}
+aside {
+	background: black;
+	padding: 10px;
+	width: 200px;
+	float: left;
+	border: 2px solid green;
+	}
+article {
+	margin-left: 240px;
+	display: block;
+	border: 2px solid green;
+	background: #333333;
+	color: white;
+	}
+p {
+   margin: 10px;
+   color: white;
+	}
+a {
+   color: green;
+	   }
