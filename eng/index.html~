@@ -26,7 +26,7 @@
 			<p>SAMoCAD designed to create simple drawings, primarily to architectural drawings.
 			Development of the program is far from complete, but it is already possible to draw.
 			There is partial DXF format support, at the moment almost all drafted in the program can be saved in DXF and can be opened in AutoCAD (or another CAD).
-			Also can be imported from other programs simple drawings in SAMoCAD. The program can also save drawings in SVG format, which can be viewed in web browsers.</p>
+			Also can be imported from other programs simple drawings in SAMoCAD.</p>
 			<img style="margin: 10px;" src="../Screen2.png">
 		</article>
 	</body> 
