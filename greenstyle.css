@@ -23,6 +23,9 @@ article {
 	background: #333333;
 	color: white;
 	}
+li {
+	margin: 15px;
+	}
 p {
    margin: 10px;
    color: white;
