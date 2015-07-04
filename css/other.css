@@ -1,0 +1,38 @@
+button {
+	border: 2px solid #90EE90;
+	background: #126E12; 
+	padding: 10px 1px;
+	color: black;
+	width: 200px;
+	font-size: 11pt;
+	}
+button:hover {
+	background: #FFA500; 
+	}
+aside {
+	background: none;
+	#padding: 10px;
+	width: 200px;
+	float: left;
+	#border: 2px solid green;
+	}
+article {
+	margin-left: 220px;
+	display: block;
+	#border: 2px solid green;
+	#background: #333333;
+	color: black;
+	}
+li {
+	margin: 15px;
+	}
+p {
+   margin: 10px;
+   color: black;
+	}
+a {
+   color: green;
+	   }
+body {
+	background: white;
+	}
