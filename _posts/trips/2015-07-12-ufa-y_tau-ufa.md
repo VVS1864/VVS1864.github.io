@@ -14,6 +14,7 @@ categories: trips
 Теперь подробнее.
 <p style="color: green;">Fui 221 km ida, respectivamente con factor todo el camino es 442 km * 1.2 = 530 km. En camino he estado del 7 al 11 julio.
 Ahora las detalles.</p>
+
 Выехал из Уфы 7 числа примерно в полдень. Погода пасмурная, иногда шел моросящий дождь, но с ветром повезло - попутный или несильный боковой. Сначала ехал по федеральной трассе М5, затем свернул на объездную, проходящую через Иглино. 
 
 <p style="color: green;">Sali del Ufa numero 7 acerca del mediodia. El tiempo estaba malo, a veces estaba la llovizna, pero con viento tenia suerte - de cola o no fuerte de costado. Al principio fui en ruta federal M5, despues he girado al ruta derivacion, que discurre por pueblo Iglino.</p>
