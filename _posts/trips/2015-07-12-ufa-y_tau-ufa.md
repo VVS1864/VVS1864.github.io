@@ -12,6 +12,7 @@ categories: trips
 Вышло 221 км туда, соответственно весь путь с учетом коэффициента 442 км * 1.2 = 530 км. В пути был с 7 по 11 июля.
 
 Теперь подробнее.
+
 <p style="color: green;">Fui 221 km ida, respectivamente con factor todo el camino es 442 km * 1.2 = 530 km. En camino he estado del 7 al 11 julio.
 Ahora las detalles.</p>
 
