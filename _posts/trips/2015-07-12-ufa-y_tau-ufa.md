@@ -30,9 +30,13 @@ Ahora las detalles.</p>
 
 От Иглино до Тавтиманово 15 километров асфальтовой дороги. Затем дорога круто уходит в гору и до Кудеевкого становится грунтовой, проходя по полям через несколько небольших перевалов. После Кудеевского снова асфальт до самого Красного Восхода. Дорога проходит через селения Урман, Фаткуллино, Улу-Теляк, местами покрытие разбито:
 
+<p style="color: green;">Del Iglino al Tawtimanovo hay 15 km del camino asfaltado. Despues el camino va a montaños y se convierte en camino de tierra, pasando por los campos a traves de unos pases pequeños. Despues de pueblo Kudeevskiy de nuevo asfalto antes de pueblo Rojo Sunrise. camino pasa por los pueblos Urman, Fatkullino, Ulu-Telyak, en unos lugares la cobertura es roto:</p>
+
 <a href="/assets/ufa-ytau/3.JPG"><img src="/assets/ufa-ytau/3.JPG" width="640"></a>
 
-После Красного Восхода асфальт кончается у развилки: в право Казаяк, влево Орловка. До этого я всегда ездил через Казаяк, но в этот раз решил поехать как мне говорили будет правильнее - через Орловку. И это оказалось правдой, путь до Аши более длинный, зато дорога лучше, не требуется перетаскивать груженный велосипед через рельсы и мосты через реки основательные, весной точно не уходят под воду.  
+После Красного Восхода асфальт кончается у развилки: в право Казаяк, влево Орловка. До этого я всегда ездил через Казаяк, но в этот раз решил поехать как мне говорили будет правильнее - через Орловку. И это оказалось правдой, путь до Аши более длинный, зато дорога лучше, не требуется перетаскивать груженный велосипед через рельсы и мосты через реки основательные, весной точно не уходят под воду.
+
+<p style="color: green;">Despues de Rojo Sunrise asfalto termina acerca del tenedor: a la derecha es pueblo Kazayak, a la izquierda es Orlovka. Antes de este momento siempre iba por Kazayak, pero esta vez he decidido ir que me han dicho es mas correcto - por Orlovka. Eso era verdad, camino a Asha es mas largo, pero es mas bueno, no necesario traer la bicicleta cargada a traves de los carriles, y los puentes sobre los rios son fundamentales, exactamente no estan bajo de agua en la primavera.</p>
 
 <a href="/assets/ufa-ytau/4.JPG"><img src="/assets/ufa-ytau/4.JPG" width="640"></a>
 
