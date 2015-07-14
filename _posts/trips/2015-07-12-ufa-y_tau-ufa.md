@@ -42,20 +42,30 @@ Ahora las detalles.</p>
 
 В Аше набрал воды из колонки у дороги. После Аши до Симской дорога идет в пойме реки Сим зажатая с двух сторон горами, покрытыми лесом. Пора было искать место для ночевки, поэтому проехав не более 10 километров от города я надел на плечи велосипедный рюкзак и катя рядом с собой велосипед ушел в гору по заросшей лесной дороге и остановился у упавшей сухой елки. Первым делом развел большой дымный костер, потому что меня атаковали армии комаров. Костры я обычно развожу быстро, потому что всегда вожу с собой мешок с берестой и по возможности пополняю его. 
 
-Первый раз ставил новую самодельную палатку весом 1.4 кг. Она даже поставилась. Ее конструкция получилась странной, в нее можно только вползти, зато легкая и ставится быстро!
+<p style="color: green;">En Asha tome agua de columna acerca del camino. De Asha al estacion Simskaya el camino pasa acerca del rio entre las montanas cubiertas por bosque. Era el momento de buscar el lugar para pasar la noche, porque sin yendo 10 km de la ciudad he puesto la mochila de bicicleta a hombros y, rodando bicicleta cerca conmigo, he ido a la montana por el camino boscosa y he parado cerca del abeto caido. Primero he encendido hoguera granda y muy humoso, porque me han atacado ejercitos de los mosquitos. Normalmente encendo hogueras rapido, porque siempre llego conmigo un paquete con corteza de abedul y si posible lo lleno. </p>
+
+Первый раз ставил новую самодельную палатку весом 1.4 кг. Она даже поставилась. Ее конструкция получилась странной, в нее можно только вползти, зато легкая и ставится быстро.
+
+<p style="color: green;">Primera vez he puesto mi nuevo tienda de compana que pesa 1.4 kg. Ella ya se ponia. Su construcsion estaba extrano, en ella era posible solo arrastrarse, pero esta ligero y ha puesto rapido.</p>
 
 <a href="/assets/ufa-ytau/5.JPG"><img src="/assets/ufa-ytau/5.JPG" width="640"></a> 
 
 На следующий день двинулся в сторону Симской. От Аши туда идет хорошая асфальтированная дорога, правда перепады высоты приличны.
 После Миньяра можно увидеть интересное инженерное сооружение - Никольский мост 1930 года постройки, как говорят, первый монолитный мост в СССР, облицован натуральным камнем.
 
+<p style="color: green;">Al dia siguiente me fui hacia estacion Simskaya. De Asha alli pasa camino asfaltado bueno, pero las montanas son altas. Despues de ciudad Miniar puede ver un interesante construcsion de ingenieria - puento Nikolsky 1930 ano de construccion, que han dicho, ei primero puento monolotico en USSR, forrada con piedra natural.</p>
+
 <a href="/assets/ufa-ytau/6.JPG"><img src="/assets/ufa-ytau/6.JPG" width="640"></a> 
 
-После Симской 5 км до города Сим. Дорога хорошая, особенно если свернуть на левую, которая проходит через заброшенные сады, по ней меньше ездят. В Симу снова выезд на федеральную трассу М5. Крутой и затяжной подъем в гору. В концу подъема неприметный поворот на грунтовую дорогу в Ерал.
+После Симской 5 км до города Сим. Дорога хорошая, особенно если свернуть на левую, которая проходит через заброшенные сады, по ней меньше ездят. В Симу снова выезд на федеральную трассу М5. Крутой и затяжной подъем в гору. В конце подъема неприметный поворот на грунтовую дорогу в Ерал.
+
+<p style="color: green;">Despues de estacion Simskaya hay 5 km a ciudad Sim. Camino es bueno, especialmente si doblar a la izquierda, que pasa a traves jardines abandonado, alli menos manejan. En Sim de nuevo llego a la ruta federal M5. Una subida empinada y prolongada. En el fin del subido hay no notable giro a camino tierra por pueblo Eral.</p>
 
 <a href="/assets/ufa-ytau/7.JPG"><img src="/assets/ufa-ytau/7.JPG" width="640"></a> 
 
 Путь до Ерала довольно утомителен, постоянные спуски-подъемы. Повезло с погодой, в дождь эта дорога превращается в нечто скверное. В Ерале зашел в магазин за хлебом, он оказался очень дешевым и вкусным. До Кропачево расстояние небольшое, на дорога грунтовая и проходит через перевал. В Кропачево нужно проехать под железной дорогой очень страшному тоннелю, в дождь по нему текет ручей, покрытие из бетона разбилось и повсюду торчат арматура и проволоки. Дальше выезд на трассу P242 в направлении Малаяза. Заночевал в ближайшем лесу сразу после границы Башкирии и Челябинской области. Примечательно, что в том месте почти не было комаров, но возможно дело просто в погоде.
+
+<p style="color: green;"></p>
 
 Утром погода была плохая, лил дождь. Пока я завтракал и собирался в палатке он кончился, но трава стала мокрой. Пока выходил из леса на дорогу промок по пояс. Положив рюкзак на обочину и поставив на него фотоаппарат, попытался сфоткать сам себя. Моросил дождь, на объектив падали капли.   
  
