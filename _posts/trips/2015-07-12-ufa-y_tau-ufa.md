@@ -65,46 +65,68 @@ Ahora las detalles.</p>
 
 Путь до Ерала довольно утомителен, постоянные спуски-подъемы. Повезло с погодой, в дождь эта дорога превращается в нечто скверное. В Ерале зашел в магазин за хлебом, он оказался очень дешевым и вкусным. До Кропачево расстояние небольшое, на дорога грунтовая и проходит через перевал. В Кропачево нужно проехать под железной дорогой очень страшному тоннелю, в дождь по нему текет ручей, покрытие из бетона разбилось и повсюду торчат арматура и проволоки. Дальше выезд на трассу P242 в направлении Малаяза. Заночевал в ближайшем лесу сразу после границы Башкирии и Челябинской области. Примечательно, что в том месте почти не было комаров, но возможно дело просто в погоде.
 
-<p style="color: green;">El camino a Eral muy cansado, siempre bajadas y subidas. Tengo suerte del tiempo - en lluvia esae camino se converte a algo malo. En Eral yo fui a una tienda de comprarr el pan, fue muy barato y dilicioso. Hasta pueblo Kropachevo el dimension no es grande, pero el camino es terraneo y pasa por un paso de montana. En Kropachevo hay que pasar por un tunel muy horrible, en lluvia por lo pasaba arroyo, cubierta de hormigon es roto, en todas partes sobresalen aceros. Despues salida a ruta p242 hacia pueblo Maloyaz. Tuve la noche en bosque cercano despues de frontera de Bashkortostan y Region de Chelyabinsk. Notable que qlli no era los mosquitos, pero posible es depende del clima.</p>
+<p style="color: green;">El camino a Eral muy cansado, siempre bajadas y subidas. Tengo suerte del tiempo - en lluvia ese camino se convierte en algo malo. En Eral yo fui a una tienda de comprar el pan, fue muy barato y delicioso. Al pueblo Kropachevo el dimension no es grande, pero el camino es terraneo y pasa por un paso de montana. En Kropachevo hay que pasar por un tunel muy horrible, en lluvia por lo pasaba arroyo, cubierta de hormigon es roto, en todas partes sobresalen aceros. Despues de salida a ruta P242 hacia pueblo Maloyaz. Tuve la noche en bosque cercano despues de frontera de Bashkortostan y Region de Chelyabinsk. Notable que alli no era los mosquitos, pero posible es depende del clima.</p>
 
 Утром погода была плохая, лил дождь. Пока я завтракал и собирался в палатке он кончился, но трава стала мокрой. Пока выходил из леса на дорогу промок по пояс. Положив рюкзак на обочину и поставив на него фотоаппарат, попытался сфоткать сам себя. Моросил дождь, на объектив падали капли.   
+
+<p style="color: green;">En la manana hace mal tiempo, fue lluvia. Mientras yo desayunado, lluvia ha terminado, pero la hierba estaba mojado. Saliendo del bosque he mojado por cintura. Puse la mochila en arcen y trate de hacer foto de si mismo. Fue lluvioso, las gotas caen al objectivo.</p>
  
 <a href="/assets/ufa-ytau/8.JPG"><img src="/assets/ufa-ytau/8.JPG" width="640"></a> 
 
 Вышел на трассу и продолжил ехать в сторону Малаяза. В отличие от местности Аши здесь больше полей, а горы более пологие, поэтому с трассы открывается хороший вид.
 
+<p style="color: green;">Sali al ruta y continuye ir a Malayaz. A diferencia de Asha, aqui era mas campos y mantanos era menos altos, porque del ruta hay vistas buenos.</p>
+
 <a href="/assets/ufa-ytau/9.JPG"><img src="/assets/ufa-ytau/9.JPG" width="640"></a> 
 
 В Малаязе зашел в магазин и закупил продуктов на весь оставшийся маршрут. Решил проехать оставшиеся 16 км до Янгантау. Там, затащив велосипед на соседнюю гору, сфотографировал санаторий. Погода улучшилась. Поляна на горе оказалась очень ягодной, я объелся... 
+
+<p style="color: green;"> En Malayaz fui al mercado y compre alimentos por resto dias del viaje. Decidi pasar 16 km que se queden por pueblo Yangantau. Alli, subiendo la bicicleta al montana cercano yo hice unos fotos del sanatorio. El tiempo se convirtio a bueno.</p>
 
 <a href="/assets/ufa-ytau/10.JPG"><img src="/assets/ufa-ytau/10.JPG" width="640"></a> 
 
 Надо сказать, что за последние года местность сильно изменилась, поляны повсюду зарастают сосенками и березками, через 20 лет здесь будут леса.
 
+<p style="color: green;">Hay que decir, que por unos ultimos anos los lugares se convirtio mucho, alrededor los campos cubrieron de los pinos y abedules pequenos, despues 20 anos aqui seran bosques.</p>
+
 <a href="/assets/ufa-ytau/11.JPG"><img src="/assets/ufa-ytau/11.JPG" width="640"></a> 
 
 Вид на гору Каратау со стороны поселка Чулпан.
 
+<p style="color: green;">Visto a montana Karatau del lado de pueblo Chulpan.</p>
+
 <a href="/assets/ufa-ytau/12.JPG"><img src="/assets/ufa-ytau/12.JPG" width="640"></a> 
 
 Решил, что пора возвращаться и двинулся в обратную сторону. Погода стала совсем хорошей, вышло солнце. Заночевал примерно 10 км не доехав до Кропачево в приятном сосновом лесочке на вершине горы.  
+
+<p style="color: green;">Desidi que tuve que regresar y fui atras. El tiempo fue muy bueno, salio sol. He parado pasar la noche acerca en 10 km no pasando a Kropachevo en bosque pinoso y agradable en la montana.</p>
 
 <a href="/assets/ufa-ytau/13.JPG"><img src="/assets/ufa-ytau/13.JPG" width="640"></a> 
 
 Следующий день был нелегким. Утром был дождь, иногда переходящий в ливень.
 это был настоящий тест новой палатки, и она себя хорошо показала, протечки были незначительны. Недостаток правда нашелся - узкие стойки от нагрузки стали уходить в землю, нужно будет придумать опоры, а пока пришлось подсовывать под них ветки.
 
+<p style="color: green;"> Proxima dia fue no facil. En la manana fue lluvia, a veses convertido a chaparron. Eso fue realmente testo de nueva tienda de compana y ella mostro si mismo bueno, las fugas fue menores. Verdad se encontro un defecto - las apoyos estrechos de carga fueron a bajarse debajo de tierra, hay que proponer buenos apoyos y ahora hay que poner las ramas abajo de apoyos.</p>
+
 Ливень лил не переставая, на трассе было много воды. Один грузовик, быстро проехав мимо, снес меня с трассы в кювет ударом воды из под колес. Я с велосипедом полетел как пенопластовый и весьма удачно приземлился в грязь. Дальше до поворота на Кропачево ехал только по обочине, держась подальше от дороги. В Кропачево ливень резко кончился, задул сильный западный ветер. Дорога до Ерала сделалась покрытая скользкой глиной, мои шоссейные покрышки [Marathon Plus](http://www.schwalbe.com/en/tour-reader/marathon-plus.html) буксовали в гору, пришлось пойти пешком. Спуск тоже оказался плох, при торможении колеса останавливались, а велосипед продолжал скользить по глине с той же скоростью, нормально получилось ехать только на подходе к Ералу. 
 
+<p style="color: green;">Chaparon fue sin parada, sobre la ruta fue mucha agua. Un camion, pasando acerca de mi muy rapido, soplo me del ruta a golpe del agua. Yo con mi bicicleta volamos que plastoform y tierramos a sucia muy bueno. Despues fui solo por arcen, lejos del corretera. En Kropachevo chaparron ha terminado derepente y soplar viente occidental fuerte.La carretera a Eral fue cubierta barro agua y mias neumaticos del carretera [Marathon Plus](http://www.schwalbe.com/en/tour-reader/marathon-plus.html) patinaron en montana, tuve que ir a pie. Bajada tambien fue mal, durante el frenado se bloquearon y bicicleta continuo pitinar por barro. Pude ir normalmente solo acerca de Eral.</p>
+
 Здесь приметил еще одно старое архитектурное сооружение - сельский магазин 1958 года, теперь просто руины.
+
+<p style="color: green;">Aqui he visto ya una construccion architecto viejo - tienda del pueblo 1958 ano, ahora solo las ruinos.</p>
 
 <a href="/assets/ufa-ytau/14.JPG"><img src="/assets/ufa-ytau/14.JPG" width="640"></a>
 
 После Ерала погода улучшилась, дорога стала быстро просыхать. Мое внимание привлек неведомо зачем вырытый котлован (карьер?), наполовину заполненный водой.
 
+<p style="color: green;">Despues de Eral el tiempo fue a estar mejor, la carretera seco rapidamente. Mi atenccion se dirigio a una hondonada lleno por agua an media, que era excavando no se para que. </p>
+
 <a href="/assets/ufa-ytau/15.JPG"><img src="/assets/ufa-ytau/15.JPG" width="640"></a>
       
 На спуске в Симу меня обогнал старый ржавый УАЗ, подрезал меня уходя в право на обочину и попытался на скорости проехать в поле через канаву, но кажется ему немного не хватило проходимости:
+
+<p style="color: green;">En bajada antes de Sim me han </p>
 
 <a href="/assets/ufa-ytau/16.JPG"><img src="/assets/ufa-ytau/16.JPG" width="640"></a>
 
