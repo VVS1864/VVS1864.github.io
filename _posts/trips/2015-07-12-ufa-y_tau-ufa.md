@@ -99,50 +99,62 @@ Ahora las detalles.</p>
 
 Решил, что пора возвращаться и двинулся в обратную сторону. Погода стала совсем хорошей, вышло солнце. Заночевал примерно 10 км не доехав до Кропачево в приятном сосновом лесочке на вершине горы.  
 
-<p style="color: green;">Desidi que tuve que regresar y fui atras. El tiempo fue muy bueno, salio sol. He parado pasar la noche acerca en 10 km no pasando a Kropachevo en bosque pinoso y agradable en la montana.</p>
+<p style="color: green;">Desidi que tuve que regresar y fui atras. El tiempo fue muy bueno, salio sol. He parado pasar la noche acerca en 10 km no pasando a Kropachevo en bosque del pinos y agradable en la montana.</p>
 
 <a href="/assets/ufa-ytau/13.JPG"><img src="/assets/ufa-ytau/13.JPG" width="640"></a> 
 
 Следующий день был нелегким. Утром был дождь, иногда переходящий в ливень.
 это был настоящий тест новой палатки, и она себя хорошо показала, протечки были незначительны. Недостаток правда нашелся - узкие стойки от нагрузки стали уходить в землю, нужно будет придумать опоры, а пока пришлось подсовывать под них ветки.
 
-<p style="color: green;"> Proxima dia fue no facil. En la manana fue lluvia, a veses convertido a chaparron. Eso fue realmente testo de nueva tienda de compana y ella mostro si mismo bueno, las fugas fue menores. Verdad se encontro un defecto - las apoyos estrechos de carga fueron a bajarse debajo de tierra, hay que proponer buenos apoyos y ahora hay que poner las ramas abajo de apoyos.</p>
+<p style="color: green;"> Proxima dia fue no facil. En la manana fue lluvia, a veces convertido a chaparron. Eso fue realmente test de nueva tienda de compana y ella mostro si mismo bueno, las fugas fue menores. Verdad se encontro un defecto - las apoyos estrechos de carga fueron a bajarse debajo de tierra, hay que proponer buenos apoyos y ahora hay que poner las ramas abajo de apoyos.</p>
 
 Ливень лил не переставая, на трассе было много воды. Один грузовик, быстро проехав мимо, снес меня с трассы в кювет ударом воды из под колес. Я с велосипедом полетел как пенопластовый и весьма удачно приземлился в грязь. Дальше до поворота на Кропачево ехал только по обочине, держась подальше от дороги. В Кропачево ливень резко кончился, задул сильный западный ветер. Дорога до Ерала сделалась покрытая скользкой глиной, мои шоссейные покрышки [Marathon Plus](http://www.schwalbe.com/en/tour-reader/marathon-plus.html) буксовали в гору, пришлось пойти пешком. Спуск тоже оказался плох, при торможении колеса останавливались, а велосипед продолжал скользить по глине с той же скоростью, нормально получилось ехать только на подходе к Ералу. 
 
-<p style="color: green;">Chaparon fue sin parada, sobre la ruta fue mucha agua. Un camion, pasando acerca de mi muy rapido, soplo me del ruta a golpe del agua. Yo con mi bicicleta volamos que plastoform y tierramos a sucia muy bueno. Despues fui solo por arcen, lejos del corretera. En Kropachevo chaparron ha terminado derepente y soplar viente occidental fuerte.La carretera a Eral fue cubierta barro agua y mias neumaticos del carretera [Marathon Plus](http://www.schwalbe.com/en/tour-reader/marathon-plus.html) patinaron en montana, tuve que ir a pie. Bajada tambien fue mal, durante el frenado se bloquearon y bicicleta continuo pitinar por barro. Pude ir normalmente solo acerca de Eral.</p>
+<p style="color: green;">Chaparron fue sin parada, sobre la ruta fue mucha agua. Un camion, pasando acerca de mi muy rapido, soplo me del ruta con golpe del agua. Yo con mi bicicleta volamos que plastoform y tierramos a sucia muy bueno. Despues fui solo por arcen, lejos del corretera. En Kropachevo chaparron ha terminado de repente y soplar viente occidental y fuerte. La carretera a Eral fue cubierta de barro agua y mis neumaticos del carretera [Marathon Plus](http://www.schwalbe.com/en/tour-reader/marathon-plus.html) patinaron en montana, tuve que ir a pie. Bajada tambien fue mal, durante el frenado se bloquearon y bicicleta continuo pitinar por barro. Pude ir normalmente solo acerca de Eral.</p>
 
 Здесь приметил еще одно старое архитектурное сооружение - сельский магазин 1958 года, теперь просто руины.
 
-<p style="color: green;">Aqui he visto ya una construccion architecto viejo - tienda del pueblo 1958 ano, ahora solo las ruinos.</p>
+<p style="color: green;">Aqui he visto ya una construccion arquitectonico viejo - tienda del pueblo 1958 ano, ahora solo las ruinos.</p>
 
 <a href="/assets/ufa-ytau/14.JPG"><img src="/assets/ufa-ytau/14.JPG" width="640"></a>
 
 После Ерала погода улучшилась, дорога стала быстро просыхать. Мое внимание привлек неведомо зачем вырытый котлован (карьер?), наполовину заполненный водой.
 
-<p style="color: green;">Despues de Eral el tiempo fue a estar mejor, la carretera seco rapidamente. Mi atenccion se dirigio a una hondonada lleno por agua an media, que era excavando no se para que. </p>
+<p style="color: green;">Despues de Eral el tiempo fue a estar mejor, la carretera seco rapidamente. Mi atenccion se dirigio a una hondonada lleno por agua an media, que era excavando no se para que.</p>
 
 <a href="/assets/ufa-ytau/15.JPG"><img src="/assets/ufa-ytau/15.JPG" width="640"></a>
       
 На спуске в Симу меня обогнал старый ржавый УАЗ, подрезал меня уходя в право на обочину и попытался на скорости проехать в поле через канаву, но кажется ему немного не хватило проходимости:
 
-<p style="color: green;">En bajada antes de Sim me han </p>
+<p style="color: green;">En bajada antes de Sim un UAZ viejo y mohoso ha adelantado a me, fue a la derecha a arcen y trato de ir al campo atravec de una zanja con granda velocidad, pero lo han faltado viabilidad:</p>
 
 <a href="/assets/ufa-ytau/16.JPG"><img src="/assets/ufa-ytau/16.JPG" width="640"></a>
 
 Не доезжая до поворота на Симскую по оправой стороне от дороги заметил заброшенные сады, в них было очень много крупной малины, пришлось сделать остановку...
 
+<p style="color: green;">Antes de llegar a estacion Simskaya he visto jardines abandonodos por lado daracho del camino. Alli fueron muchos grandos frambuesos, he necesitado hacer parada.</p>
+
 Путь до Аши ничем особенным не выделялся, погода была хорошая, дорога успела высохнуть. Заночевать решил между Ашой и Миньяром, долго искал подходящее место - все лесные дороги уходившие в гору вели в сады, откуда на меня лаяли собаки, а лезть в гору по заросшему лесом склону не хотелось. Так и не найдя подходящей дороги, решил все же лезть напролом - сначала затащил на гору рюкзак, а затем вернулся за велосипедом. В лесу ничего просохнуть не успело, ветки были мокрые и гореть не хотели. Пришлось сделать Очень Большой Костер из еловых веток, а потом класть в него ветки лиственных деревьев. Дыма было много, но комаров и других насекомых это не сильно смущало, сырая прохладная погода была для них хороша и они расплодились в немереных количествах. 
+
+<p style="color: green;">El camino a Asha no fue remarcable, el tiempo fue bueno, la carretera tuvo tiempo para secarse. Decidio pasar la noche entre de Asha y Miniar, pero busque bueno lugar mucho tiempo - todos carreteros de bosque llegan a los jardinos, de donde los peros ladraron a me. No quise subirse al pendiente cubierto de bosques, pero no encontrado otra comino decidi ir en derechura. Primero traje la mochila y despues volvi a por bicicleta. En bosque todo no tuvieron tiempo para sacarse, las ramas fueron mojado y no quemaron. Tuve que encender Hoguera Muy Grande de las polos de pino, y despues poner alli palos de drboles foliaceos. Fue mucho humo, pero eso no asusto a los mosquitos y otras insectos. El tiempo mojado y frio era muy buena para ellos y los reprodujeron en gran cantidad.</p>
 
 Утром меня ждал неприятный сюрприз - на палатке сквозь тент виднелись большие темные пятна. Это оказались слизняки, просто нашествие слизняков! Им сильно понравилась голубая ткань внутренней палатки, везде где они ползли, остались грязно-желтые следы слизи. Лес за ночь просох, комаров стало еще больше, пришлось еще раз развести большой дымный костер, чтобы они дали мне собраться.         
 Погода была самая лучшая за весь поход -  небольшая облачность, без дождя и не жарко. 
 
+<p style="color: green;">En la manana me ha esperado una sourpresa no agradable - abajo de toldo de tienda de compana fueron unos manchas - los fueron babosos, naturalmente incursion de las babosos! Mientras noche bosque ha secado, las mosquitas fueron mas. Tuve que encender hoguera grande y humoso para me prepare. El tiempo fue el buenisimo de todo viaje - un poco nublado, sin lluvia y no hace calor.</p>
+
 Путь был бы ничем не примечателен, если бы в нескольких километрах от Улу-Теляка мне не повстречалась группа велосипедистов спортивного вида. 
+
+<p style="color: green;">El camino a Ulu-Telyak sería nada especial si no he encontrado un grupo de ciclistas deportistas.</p>
 
 <a href="/assets/ufa-ytau/17.JPG"><img src="/assets/ufa-ytau/17.JPG" width="640"></a>
 
 Оказалось что у них [велопробег Хабаровск-Волгоград](https://vk.com/event82985722), а сейчас они проезжают дистанцию Екатеринбург-Самара, сегодня 5 день пути, почти как и я выехали из Миньяра, а планируют заночевать в Иглино в гостинице. Также с ними шел микроавтобус сопровождения с запчастями и ништяками. Позвали меня прокатиться с ними, если угонюсь. Темп у них был чуть выше моего, но я мог за ними поспевать. Один из них оказался из Уфы и ехал на старом советском велосипеде [Сура-2](http://velosov.blogspot.ru/2013/02/111-521-2.html) с одной скоростью, чтобы доказать что не в велосипеде дело, а в том, кто на нем едет. Надо сказать, что это действительно так, от остальных он почти не отставал. 
 
+<p style="color: green;">Ellos tienen [carrera ciclista Khabarovsk-Volgogrado](https://vk.com/event82985722), ahora ellos pasaron distancion Ekaterimburgo - Samara, hoy salimos de Miniar como yo, y planeamos pasar la noche en Iglino en hotel. Tambien con ellos paso un autobus con partas de bicicletas y comida. Llamaron me ir con ellos, si puedo. El ritmo fue mas rapido que tengo, pero pude seguir por ellos. Uno de ellos era de Ufa y fue en la bicicleta vieja de USSR [Sura-2](http://velosov.blogspot.ru/2013/02/111-521-2.html) con solo una transmision, para demostrar que el hecho no es que en bisicleta pero es quien esta setando en lo. Hay que decir, que es verdad - el le paso a otras los talones.</p> 
+
 <a href="/assets/ufa-ytau/18.JPG"><img src="/assets/ufa-ytau/18.JPG" width="640"></a>
 
 Сразу после Улу-Теляка они остановились обедать, а я поехал дальше -  у меня обед перманентный, из воды и печенья, и никогда не прекращается. Между Кудеевским и Тавтиманово меня в очередной раз задержала малина, поэтому после Тавтиманово меня догнали. До Иглино снова ехали вместе - как колонна, впереди с нашей скоростью ехал автобус сопровождения. На Иглино нас ждали как на финише. Меня спросили, почему я езжу один, честно ответил, что второго такого дурака-бездельника не найти. Все засмеялись - вон сколько нас, таких дураков... Сфотографировались все у стелы на въезде в Иглино, затем я отделился от группы и поехал на право по объездной дороге. Первоначально я планировал где-то тут заночевать, но погода начала понемногу портиться, и к тому же мне нужно было писать и переводить этот отчет, поэтому решил добить маршрут в этот же день. Уже через 2-3 часа я был в Уфе.
+
+<p style="color: green;">Despues de Ulu-Telyak ellos paremos para almorzar, pero yo sigui pasendo. Tengo almuerza permanente y no termina nada. Entre de Kudeevskiy y Tawtimanovo me atraso frambuesa, porque despues de Tawtimanovo deportistas me han alcanzado. Hasta Iglino de nueve fuimos juntos - que un colon - delante paso ellos autobus con nuestra velocidad. En Iglino nos esperaron que en la meta. Me han preguntado - porque yo ir solo, contesto honradamente que no es posible encontrar segundo tan tonto y loco. Todos rieron - alli cuantos de nosotros, tantos locos... Hicieron unos fotos con todos antes de una stela de Iglin. Despues yo he separado de todos y pasa por el carretera de rodeo. El primero yo planee pasar la noche en alguna parte de aqui. pero el tiempo fue a estar mal, y tambien tuve que escribir y traducir este informe, porque decidi terminar la ruta en este dia. Ya despues de 2-3 horras yo fui en Ufa.</p>
