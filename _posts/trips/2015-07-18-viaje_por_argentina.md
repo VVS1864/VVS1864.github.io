@@ -20,3 +20,6 @@ categories: trips
 <p style="color: green;">||||| 200</p>
 <p style="color: #A52A2A;">||||| 170</p>
 
+Это примерный маршрут первой части путешествия, далее я планирую продолжать путешествие по территории Чили, но пока не определился где именно.
+
+<p style="color: green;">Esta es el primera parte del mi viaje, despues yo planeo continuar viaje por tierra del Chile, pero ahora no determino donde exactamente.</p>
