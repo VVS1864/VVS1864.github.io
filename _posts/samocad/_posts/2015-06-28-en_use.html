@@ -4,6 +4,9 @@ title:  "Install"
 <!---date:   2015-06-28 09:29:13-->
 categories: samocad
 ---
+===
+<h1>Windows</h1>
+<p>
 <p>For run the program on Windows, necessary:</p>
 <li>1) Download  zip archive with <a href="https://github.com/VVS1864/SAMoCAD/archive/wx_opengl.zip">sources</a></li>
 <li>2) Unpack archive</li>
@@ -17,4 +20,17 @@ categories: samocad
 	<p>Reportlab <a href="https://pypi.python.org/packages/2.7/r/reportlab/reportlab-2.7.win32-py2.7.exe#md5=2bdefe98a91e076b178d3b37711e2588">x86</a> or <a href="https://pypi.python.org/packages/2.7/r/reportlab/reportlab-2.7.win-amd64-py2.7.exe#md5=858a6ed69ea5e67bad84370c588becb1">x64</a></p>
 </li>
 <li>4) Go to the folder with the program and run file samocad_start.py</li>
+</p>
+<h1>Linux ubuntu/debian-like</h1>
+<p>
+In terminal :
+<code>
+	sudo apt-get install python-wxgtk2.8 python-opengl python-numpy python-imaging python-reportlab
+	wget https://github.com/VVS1864/SAMoCAD/archive/wx_opengl.zip
+	unzip wx_opengl.zip
+	cd SAMoCAD-wx_opengl
+	python samocad_start.py
+</code>
+Have fun!
+</p>
 On you computer must be installed OpenGL 1.4 or later.
