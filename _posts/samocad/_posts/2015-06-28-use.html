@@ -4,17 +4,31 @@ title:  "Install"
 <!---date:   2015-06-28 09:29:13-->
 categories: samocad
 ---
+<h1>Windows</h1>
 <p>Чтобы запустить программу на Windows, необходимо:</p>
-			<li>1) Скачать  zip архив с <a href="https://github.com/VVS1864/SAMoCAD/archive/wx_opengl.zip">исходниками</a></li>
-			<li>2) Распаковать архив</li>
-			<li>
-				3) Скачать и установить:  
-				<p>Python 2.7 <a href="https://www.python.org/ftp/python/2.7.8/python-2.7.8.msi">x86</a> или <a href="https://www.python.org/ftp/python/2.7.8/python-2.7.8.amd64.msi">x64</a></p>
-				<p>wxPython <a href="http://downloads.sourceforge.net/wxpython/wxPython3.0-win32-3.0.2.0-py27.exe">x86</a> или <a href="http://downloads.sourceforge.net/wxpython/wxPython3.0-win64-3.0.2.0-py27.exe">x64</a></p>
-				<p>PyOpenGL <a href="https://pypi.python.org/packages/any/P/PyOpenGL/PyOpenGL-3.0.2.win32.exe#md5=4f1c66d6d87dcdf98ecc7ff4ce61a7e6">x86</a> или <a href="https://pypi.python.org/packages/any/P/PyOpenGL/PyOpenGL-3.0.2.win-amd64.exe#md5=b02e6a5e7b547e0968c34a2a43de7da1">x64</a></p>
-				<p>Numpy <a href="http://sourceforge.net/projects/numpy/files/NumPy/1.9.2/numpy-1.9.2-win32-superpack-python2.7.exe/download">x86/x64</a></p> 
-				<p>PIL <a href="http://effbot.org/downloads/PIL-1.1.7.win32-py2.7.exe">x86/x64</a>
-				<p>Reportlab <a href="https://pypi.python.org/packages/2.7/r/reportlab/reportlab-2.7.win32-py2.7.exe#md5=2bdefe98a91e076b178d3b37711e2588">x86</a> или <a href="https://pypi.python.org/packages/2.7/r/reportlab/reportlab-2.7.win-amd64-py2.7.exe#md5=858a6ed69ea5e67bad84370c588becb1">x64</a></p>
-			</li>
-			<li>4) Перейти в папку с программой и запусть файл samocad_start.py</li>
-			На компьютере должен быть OpenGL не менее версии 1.4.
+<li>1) Скачать  zip архив с <a href="https://github.com/VVS1864/SAMoCAD/archive/wx_opengl.zip">исходниками</a></li>
+<li>2) Распаковать архив</li>
+<li>
+	3) Скачать и установить:  
+	<p>Python 2.7 <a href="https://www.python.org/ftp/python/2.7.8/python-2.7.8.msi">x86</a> или <a href="https://www.python.org/ftp/python/2.7.8/python-2.7.8.amd64.msi">x64</a></p>
+	<p>wxPython <a href="http://downloads.sourceforge.net/wxpython/wxPython3.0-win32-3.0.2.0-py27.exe">x86</a> или <a href="http://downloads.sourceforge.net/wxpython/wxPython3.0-win64-3.0.2.0-py27.exe">x64</a></p>
+	<p>PyOpenGL <a href="https://pypi.python.org/packages/any/P/PyOpenGL/PyOpenGL-3.0.2.win32.exe#md5=4f1c66d6d87dcdf98ecc7ff4ce61a7e6">x86</a> или <a href="https://pypi.python.org/packages/any/P/PyOpenGL/PyOpenGL-3.0.2.win-amd64.exe#md5=b02e6a5e7b547e0968c34a2a43de7da1">x64</a></p>
+	<p>Numpy <a href="http://sourceforge.net/projects/numpy/files/NumPy/1.9.2/numpy-1.9.2-win32-superpack-python2.7.exe/download">x86/x64</a></p> 
+	<p>PIL <a href="http://effbot.org/downloads/PIL-1.1.7.win32-py2.7.exe">x86/x64</a>
+	<p>Reportlab <a href="https://pypi.python.org/packages/2.7/r/reportlab/reportlab-2.7.win32-py2.7.exe#md5=2bdefe98a91e076b178d3b37711e2588">x86</a> или <a href="https://pypi.python.org/packages/2.7/r/reportlab/reportlab-2.7.win-amd64-py2.7.exe#md5=858a6ed69ea5e67bad84370c588becb1">x64</a></p>
+</li>
+<li>4) Перейти в папку с программой и запусть файл samocad_start.py</li>
+
+<h1>Linux ubuntu/debian-like</h1>
+<p>
+Выполнить в терминале:
+
+	<p>sudo apt-get install python-wxgtk2.8 python-opengl python-numpy python-imaging python-reportlab</p>
+	<p>wget https://github.com/VVS1864/SAMoCAD/archive/wx_opengl.zip</p>
+	<p>unzip wx_opengl.zip</p>
+	<p>cd SAMoCAD-wx_opengl</p>
+	<p>python samocad_start.py</p>
+
+<p>Have fun!</p>
+</p>
+На компьютере должен быть OpenGL не менее версии 1.4.
