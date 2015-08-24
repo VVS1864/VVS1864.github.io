@@ -32,6 +32,7 @@ https://m.facebook.com/100010020618583/albums/156420191368667/
 fotos
 https://m.facebook.com/100010020618583/albums/158176437859709/
 
+24.08
 сегодня очень активный день. Доехал до зилаира. Дул хороший встречный ветер постоянные спуски и подьемы. погода хорошая - не жарко и без дождя. зилаирский район это здорово - места просто обалдеть! поля и леса очень приятные. деревья - клен дуб сосна и береза. очень много зверей - когда едешь по дороге постоянно ктото в кустах шуршит. вечером к моему костру пришла лиса и совсем меня не боялась. фоток пока  нет - связь 2г...  
 
 <p style="color: green;">hoy un dia muy activo. llegare a Zilair. viento fuerte y no suerte y siempre bajadoa y subidos. tiempo bueno - no hace calor y sin lluvia. raion de zilair es buenisimo - lugarea muy bonitos! campos y boaques muy agradales. arboles - arcen roble pino y abedul. hay muchas animales - cuando fui por cerretera siempre algunos susurrieron en arbustos. por la noche a mi hoguera llego el zorro y no me teme en absoluto. poco no hay fotos - enlance solo 2g...</p>
