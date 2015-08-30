@@ -44,3 +44,8 @@ https://m.facebook.com/100010020618583/albums/158176437859709/
 
 fotos
 https://m.facebook.com/100010020618583/albums/162467867430566
+
+30.08
+слов нет чтобы описать дождь под который я только что попал - я сидел у кое-как разведенного костра готовил макароны и тут костер исчез! прямо как ведро воды вылили. хорошо что я до этого палатку поствил. дождь сегодня шел весь день не переставая. кажется пора возвращаться в Уфу.
+
+<p style="color: green;">no tengo palabras para describir lluvia que hace ahora - yo sienti sobre la hoguera y prepare macarrones y derepente hoguera caye! como de cubo. bueno que antes de eso monto la tienda de compania. hoy hace lluvia siempre me parece que ea tiempo para regresar a Ufa. </p>
