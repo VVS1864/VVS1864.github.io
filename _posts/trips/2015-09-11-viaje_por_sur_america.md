@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Путешествие по Южной америке на велосипеде - Viaje por Sur América en bicicleta
+title: Путешествие по Южной Америке на велосипеде - Viaje por Sur América en bicicleta
 categories: trips
 ---
 
