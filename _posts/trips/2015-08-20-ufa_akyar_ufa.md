@@ -3,25 +3,34 @@ layout: post
 title: Уфа - Акъяр и обратно, проверка снаряжения - Ufa - Akyar y vuelta, aprobar equipo 
 categories: trips
 ---
-Для проверки снаряжения в тренировки решил проехать на велосипеде там, где ни разу не бывал - по югу Башкирии. По пути маршрут претерпел изменения и в итоге я проехал по кольцу:   
+Для проверки снаряжения в тренировки решил проехать на велосипеде там, где ни разу не бывал - по югу Башкирии. По пути маршрут претерпел изменения и в итоге я проехал по кольцу в 1400 км:   
 
-<p style="color: green;"></p>
+<p style="color: green;">Para aprobar equipo y entrenamiento he decidido pasar en cicicleta alla, donde no estaba nunca - por sur de Bashkortostan. Por el camino mi ruta estaba combiada e en resultado yo paso por anillo en 1400 km</p>
 
 <a href="/assets/ufa_akyar/track3.jpg"><img src="/assets/ufa_akyar/track2.jpg" width="640"></a>
 
 20 августа я наконец-то смог выехать. Изначально выезд планировался на 17, потом оказалось что не все готово, перенеслось на 18, но из-за плохой погоды отложилось на 19, а в этот день я так долго собирался, что пришлось перенести еще на день. Выехал довольно поздно, ближе к обеду. Путь был в сторону Стерлитамака.
 
+<p style="color: green;">20 de agosto por fin yo he podido salir. Al principio, salida planeaba en 17, despues no todo estaba listo, aplazaba en 18, pero a causa de mal tiempo aplazaba a 19, y en este dia yo preparaba tan largo que necesario aplazar ya en un dia. Sali bastante tarde, acerca de almuerzo. Camino estaba al lado de Sterlitamak.</p>
+
 <a href="/assets/ufa_akyar/DSCN0026.jpg"><img src="/assets/ufa_akyar/DSCN0026.jpg" width="640"></a>
 
 С погодой как-то сразу не заладилось. В этот год лето вообще какое-то холодное и дождливое, привычной летней жары было мало. Периодически меня накрывало ливневыми дождями, дорога становилась неприятной и грязной. Проезжающие мимо грузовики брызгали на меня из под колес. Ехать по этой трассе более-менее сносно - она достаточно широкая, местами за краем дороги даже лишние сантиметров 30-40 асфальта, где можно ехать расслабившись. 
+
+<p style="color: green;">El tiempo no se cuajaba al vez. En este ano el verano es frio y lluvioso, acostumbrado calor de verano 
+habia poco. pon frecuencia hace lluvia fuerte, carretera era desagradable y sucio. Camiones pasandos acerca de mi suplicaron me de agua de ruedas. Pasar por esa carretera fue mas o menos bien, es bastante ancha, en algunos lugares fuera de carretera fue 30-40 sm de asfalto excedente, donde puede ir relajando.</p>
 
 <a href="/assets/ufa_akyar/DSCN0044.jpg"><img src="/assets/ufa_akyar/DSCN0044.jpg" width="640"></a>
 
 Но местами эту дорогу "отремонтировали": полили чем-то вроде смолы и посыпали камешками. Камешки не приклеились к смоле и легко вырывались колесами, покрытие стало гораздо более неровным чем было старое. Там где машины резко тормозили или поворачивали камешки устранялись полностью, обнажая слой ровного старого асфальта. Даже я немного пранял участие в очистке дороги от такого покрытия, правда камни прилетали с заднего колеса мне в поясницу.
 
+<p style="color: green;">Pero en unos lugares "han arreglado" esa carretera: regaron algo tipo de alquitran y espolvorearon piedritas. Piedritas no se pegan a alquitran y arrancaron de ruedas, cubierta fue mas accidentado que cubierta vieja. Donde las coches frenaron derepente o doblaron piedritas liquidaron en apsoluto, descubriendo capa de asfalto viejo y llano. Yo tambien participe en limpiadura de carretera de eso "cubierta", verdad, piedras volaron a mi cintura.</p>
+
 <a href="/assets/ufa_akyar/DSCN0067.jpg"><img src="/assets/ufa_akyar/DSCN0067.jpg" width="640"></a>
 
 На одном из спусков я неплохо разогнался. Дорога успела просохнуть после очередного дождя и было приятно лететь на полном ходу, как вдруг слева, почти вплотную ко мне, пронесся на большой скорости грузовик с трепыхающимся тентом. Мгновенно я оказался на обочине, которая была совсем не хороша - крупный щебень с булыжниками. Я чудом удержал велосипед и сумел сбросил скорость, если бы переднее колесо налетело на большой камень я бы, без сомнения, сделал сальто и пролетел несколько метров с последующим торможением о щебень. В дальнейшем я спускался потихоньку на тормозе, а при приближении грузовиков притормаживал еще сильнее.
+
+<p style="color: green;"></p>
 
 <a href="/assets/ufa_akyar/DSCN0072.jpg"><img src="/assets/ufa_akyar/DSCN0072.jpg" width="640"></a>
 
