@@ -5,7 +5,7 @@ categories: trips
 ---
 Для проверки снаряжения в тренировки решил проехать на велосипеде там, где ни разу не бывал - по югу Башкирии. По пути маршрут претерпел изменения и в итоге я проехал по кольцу в 1400 км:   
 
-<p style="color: green;">Para aprobar equipo y entrenamiento he decidido pasar en cicicleta alla, donde no estaba nunca - por sur de Bashkortostan. Por el camino mi ruta estaba combiada e en resultado yo paso por anillo en 1400 km</p>
+<p style="color: green;">Para aprobar equipo y entrenamiento he decidido pasar en bicicleta alla, donde no estaba nunca - por sur de Bashkortostan. Por el camino mi ruta estaba combiada e en resultado yo paso por anillo en 1400 km</p>
 
 <a href="/assets/ufa_akyar/track3.jpg"><img src="/assets/ufa_akyar/track2.jpg" width="640"></a>
 
@@ -17,8 +17,7 @@ categories: trips
 
 С погодой как-то сразу не заладилось. В этот год лето вообще какое-то холодное и дождливое, привычной летней жары было мало. Периодически меня накрывало ливневыми дождями, дорога становилась неприятной и грязной. Проезжающие мимо грузовики брызгали на меня из под колес. Ехать по этой трассе более-менее сносно - она достаточно широкая, местами за краем дороги даже лишние сантиметров 30-40 асфальта, где можно ехать расслабившись. 
 
-<p style="color: green;">El tiempo no se cuajaba al vez. En este ano el verano es frio y lluvioso, acostumbrado calor de verano 
-habia poco. pon frecuencia hace lluvia fuerte, carretera era desagradable y sucio. Camiones pasandos acerca de mi suplicaron me de agua de ruedas. Pasar por esa carretera fue mas o menos bien, es bastante ancha, en algunos lugares fuera de carretera fue 30-40 sm de asfalto excedente, donde puede ir relajando.</p>
+<p style="color: green;">El tiempo no se cuajaba al vez. En este ano el verano es frio y lluvioso, acostumbrado calor de verano habia poco. Con frecuencia hace lluvia fuerte, carretera era desagradable y sucio. Camiones pasandos acerca de mi suplicaron me de agua de ruedas. Pasar por esa carretera fue mas o menos bien, es bastante ancha, en algunos lugares fuera de carretera fue 30-40 sm de asfalto excedente, donde puede ir relajando.</p>
 
 <a href="/assets/ufa_akyar/DSCN0044.jpg"><img src="/assets/ufa_akyar/DSCN0044.jpg" width="640"></a>
 
