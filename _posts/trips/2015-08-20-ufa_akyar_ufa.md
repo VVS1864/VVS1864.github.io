@@ -30,11 +30,13 @@ habia poco. pon frecuencia hace lluvia fuerte, carretera era desagradable y suci
 
 На одном из спусков я неплохо разогнался. Дорога успела просохнуть после очередного дождя и было приятно лететь на полном ходу, как вдруг слева, почти вплотную ко мне, пронесся на большой скорости грузовик с трепыхающимся тентом. Мгновенно я оказался на обочине, которая была совсем не хороша - крупный щебень с булыжниками. Я чудом удержал велосипед и сумел сбросил скорость, если бы переднее колесо налетело на большой камень я бы, без сомнения, сделал сальто и пролетел несколько метров с последующим торможением о щебень. В дальнейшем я спускался потихоньку на тормозе, а при приближении грузовиков притормаживал еще сильнее.
 
-<p style="color: green;"></p>
+<p style="color: green;">En una bajada me acelere no mal. La carretera tuvo tiempo para secar despues de ultimo lluvia y estaba agradable volar en toda velosidad, como de subito de la izquierda, muy pegado de mi, paso corriendo en gran velosidad um camion con toldo agitando. Instantaneamente yo parece en margen, cual no estaba bueno - cascajo grande con guijarros. He mantenido bicicleta de milagro y he podido bajar velosidada, sin embargo, si rueda delantera chocaria a piedra grande yo haria salto con ulterior freno de cascajo. Posteriormente yo bajaba despacio con el freno, y cuando acercaban camiones frenaba mas fuerte.</p>
 
 <a href="/assets/ufa_akyar/DSCN0072.jpg"><img src="/assets/ufa_akyar/DSCN0072.jpg" width="640"></a>
 
 Ветер был попутный и я двигался быстро. Не подалеку от Салавата  встречались кукурузные поля, початки были не спелые, но если сварить вполне съедобные. Встретились мне и заброшенные сады, но в них все одичало и показалось мне не вкусным. Путь до Мелееуза занял 3 дня.
+
+<p style="color: green;">Fue viento favorable y yo ande rapido. No lejos de ciudad de Salavat me encontraron campor de mais, panoches fueron no maduros, pero comibles si cocer. Tambien me encontraron jardines abandonados, pero en los todo estaban asilvestrado y me paresen no gustoso, Camino al ciudad de Meleuz ocupo 3 dias.</p>
 
 <a href="/assets/ufa_akyar/DSCN0034.jpg"><img src="/assets/ufa_akyar/DSCN0034.jpg" width="640"></a>
 
