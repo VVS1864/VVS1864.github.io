@@ -43,7 +43,7 @@ categories: trips
 
 Нашел на обочине гаечный ключ, и решил завести традицию - все найденные на дороге инструменты дарить людям у которых прошу по вечерам воду. В тот день я как раз заехал за водой в селение Ира, между Мелеузом и Кумертау, и люди встретились неплохие. Узнав, что я еду из Уфа да еще в такую даль, мой рюкзак был нагружен битком яблоками помидорами и огурцами. 
 
-<p style="color: green;">Encontre un llave inglesa en arcen y decidi hacer una tradicion - todas llaves encontrados regalar a gente, de cuales voy a pedir agua por las noches. En este dia yo llegare a uno bueblo Ira, entre ciudades Meleuz y Kumertau, y encontre gente bueno. Sabiendo que yo paso de Ufa y ademas a tan largo viaje, cargaron mi mochila de las manzanas, tomatos y pipinos.</p>
+<p style="color: green;">Encontre un llave inglesa en arcen y decidi hacer una tradicion - todas llaves encontrados regalar a gente, de cuales voy a pedir agua por las noches. En este dia yo llegare a uno pueblo Ira, entre ciudades Meleuz y Kumertau, y encontre gente bueno. Sabiendo que yo paso de Ufa y ademas a tan largo viaje, cargaron mi mochila de las manzanas, tomatos y pepinos.</p>
 
 <a href="/assets/ufa_akyar/DSCN0080.jpg"><img src="/assets/ufa_akyar/DSCN0080.jpg" width="640"></a>
 
@@ -55,13 +55,13 @@ categories: trips
 
 Теперь я ехал по второстепенной дороге, было довольно спокойно, хотя машин все же было немало. Местность становилась все более степной, вместо лесов стали посадки.
 
-<p style="color: green;">Ahora pase por carretera secundaria, fue bastante tranquilo, pero con todo feuron muchas coches. Lugares se hicieron mas y mas de estepa, en lugar de bosques comenzaron plantaciones de arboles.</p> 
+<p style="color: green;">Ahora pase por carretera secundaria, fue bastante tranquilo, pero con todo fueron muchas coches. Lugares se hicieron mas y mas de estepa, en lugar de bosques comenzaron plantaciones de arboles.</p> 
 
 <a href="/assets/ufa_akyar/DSCN0092.jpg"><img src="/assets/ufa_akyar/DSCN0092.jpg" width="640"></a>
 
  Ветер был все попутный и я быстро пролетел Мраково и Исянгулово. Затем я попал в красивейшие места - Зилаирский район. Местность не холмистая, а горная, лесов и полей примерно поровну. Лесочки светлые и очень приятные, растет много дубов и кленов (не ясенелистных), а также березы и сосны. 
  
- <p style="color: green;">Siempre fue viento favorable, y yo vole rapido pueblos Mrakovo y Isyangulovo. Entonces llege a lugares maraviosos - region de Zilair. Alrededores no colinosos, pero montañosos, bosques y campos aproximadamente igual. Bosques claros y muy agradables, crecen mucho robles y arces, y tambien abedules y pinos.</p> 
+ <p style="color: green;">Siempre fue viento favorable, y yo vole rapido pueblos Mrakovo y Isyangulovo. Entonces llege a lugares maravillosos - region de Zilair. Alrededores no colinosos, pero montañosos, bosques y campos aproximadamente igual. Bosques claros y muy agradables, crecen mucho robles y arces, y tambien abedules y pinos.</p> 
  
  <a href="/assets/ufa_akyar/DSCN0106.jpg"><img src="/assets/ufa_akyar/DSCN0106.jpg" width="640"></a>
  
@@ -69,7 +69,7 @@ categories: trips
  
  Перепады высот стали более сильными, в гору почти везде шел пешком. Люди держат у себя много скотины, особенно лошадей, на дороге часто продают кумыс.
  
- <p style="color: green;">Diferencias de altura se hicieron mas fuertes, subi a la montaña casi siempre en pies. Gente tiene mucha ganado, sobre todo coballos, en camino frequentemente venden kumis.</p> 
+ <p style="color: green;">Diferencias de altura se hicieron mas fuertes, subi a la montaña casi siempre en pies. Gente tiene mucha ganado, sobre todo caballos, en camino frequentemente venden kumis.</p> 
  
  <a href="/assets/ufa_akyar/DSCN0149.jpg"><img src="/assets/ufa_akyar/DSCN0149.jpg" width="640"></a>
  
