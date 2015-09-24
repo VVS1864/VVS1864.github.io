@@ -88,34 +88,52 @@ categories: trips
  <a href="/assets/ufa_akyar/DSCN0159.jpg"><img src="/assets/ufa_akyar/DSCN0159.jpg" width="640"></a>
  
  Палатку я ставил уже в темноте в отличном лесочке в нескольких километрах от Зилаира. Было тепло, небо чистое с луной и яркими звездами. Когда я сидел у костра и ел уже поостывшие макароны, пришла лиса. Она подошла совсем близко к костру и села. Это было удивительно, что она совсем не боялась. Перед тем как лечь спать я выложил немного макаронов из котла рядом с костром, но кажется лисы не питаются макаронами...
- 
+
+  <p style="color: green;">Instale tienda de compania ya en obscuridad en bosque buenisimo de unos kilometros de Zilair. Fue hace  calor, sielo sin nubes con luna y estrellas. Cuando yo fui sentado alrededor de hoguera y comi macarrones enfriades, vino el zorro. Se acerco a hoguera muy cerca y se siento. Fue sorprendente que el no tuve miedo en absoluto. Antes de echarme a dormir yo saque unpoco de macarrones acerca de hoguera, pero parece que los zorros no cimen macarrones...</p>
+
  Утром меня разбудила жара - солнце встало и светило на палатку. Но пока я собирал вещи и укладывал рюкзак набежали тучи и задул холодный ветер. Я одел свитер и куртку и не снимал в течении дня. Но дождя не было, поэтому такая погода меня вполне устраивала. Зверей в этой местности было много, постоянно что-то шуршало в кустах вдоль дороги. 
  
+  <p style="color: green;">En la manana me desperta calor sofocante - el col se levanto e ilumino mi tienda. Pero mientras de yo recogi mis cosas, llegaron nubes e empezo a soplar viento de norte. Puse jersey y cazadora, y no los quito todo el dia. Pero no hace lluvia, poreso tal tiempo me conviene. En estes lugares hay muchas animales, siempre algo susurro en arbustos acerca de carretera.</p>
+
  <a href="/assets/ufa_akyar/DSCN0169.jpg"><img src="/assets/ufa_akyar/DSCN0169.jpg" width="640"></a>
  
  После Юлдыбаево леса кончились и начались настоящие степи. Кусты встречались редко, деревьев не было вовсе. Честно говоря ехать по такой местности весьма уныло, глазу не за что зацепиться. Поднимаясь в очередной подъем пешком я нашел на обочине старые большие шипцы, и они оказались очень полезны: я по рассеянности забыл колышки для палатки и вместо них использовал веточки, но в этой местности почва была твердой как камень, и воткнуть ветку в землю руками было трудно, приходилось заколачивать ветки этими самыми щипцами.
+
+  <p style="color: green;">Despues de pueblo Yuldibaevo bosques han terminado y comenzaron estepas realas. Arbustos encontraron raro, no hay arboles nunca. Si decir verdad, pasar por estes lugares bastente tristemente, no hay cosas para mirar. Subiendo al una subida a pie, encontre en arcen tenazas pesados, y los resultaron muy util: por desatencion yo olvide estacas de tienda de compana, y en lugar de las use ramas, pero ahi tierra fue con pidras, y hincar ramas con los manos feu dificil, tuve que clavar las con esos tenazas.</p>
  
  <a href="/assets/ufa_akyar/DSCN0181.jpg"><img src="/assets/ufa_akyar/DSCN0181.jpg" width="640"></a>
  
- <a href="/assets/ufa_akyar/DSCN0197.jpg"><img src="/assets/ufa_akyar/DSCN0197.jpg" width="640"></a>
+ <a href="/assets/  <p style="color: green;">Una vez mi agua ha terminada, y fue necesario provisionar la en algun sito, pero pueblos no se encontraron. En resultado llege a Zilair. Los  <p style="color: green;">Una vez mi agua ha terminada, y fue necesario provisionar la en algun sito, pero pueblos no se encontraron. En resultado llege a Zilair. Los habitantes me han recomiendado provisionar agua de toma de agua, y no de pozo. Y en realidad agua parece limpia y gustosa.</p> me han recomiendado provisionar agua de toma de agua, y no de pozo. Y en realidad agua parece limpia y gustosa.</p> /DSCN0197.jpg"><img src="/assets/ufa_akyar/DSCN0197.jpg" width="640"></a>
  
 Как обычно, я поздно вспомнил, что надо вечером набрать воды, уже когда проехал удобное место. Возвращаться не хотелось и я решил ехать дальше - авось попадется какая деревня. Но никаких селений не попадалось. Уже стемнело, почти кончилась вода для питья, а я все так и ехал по степи, от холма к холму, думая - вот за этим-то холмом точно будет деревня, но там оказывался следующий холм. Наконец увидел в темноте указатель направо "Садовый 2" и вскоре приехал в довольно крупное село. Долго ездил по пустым темным улицам, пока не встретил мужика, который указал мне на колонку. Вода оказалась с соленым привкусом, но это нормально для этой местности. Давно пора было где-то вставать. Отъехав по грунтовой дороге с пару километров, я нашел посадку из неизвестных мне низкорослых деревьев и встал там. Не смотря на ночь, по дороге раз в полчаса ездили самосвалы, грохоча и поднимая пыль. 
  
+  <p style="color: green;">Como siempre, me he acordado hacer provision de agua y ya pase lugar agradable. No quise regresar, y yo decidi pasar lejos, quiza encontro alguno pueblo. Pero pueblos no se encontraron. Ya oscureso, casi tarmina agua para beber, y yo asi pase por estepas, de una colina a otra, pensando que atras de proxima colina va a estar pueblo, pero ahi resulta otra colina. Por fin, he visto un indicador en oscuridad "Sadoviy 2" y pronto llege a pueblo bastante grande. Largo tiempo pase por calles obscuridados y vacios, hasta encontre un hombre, cual me ha indicado una toma de agua. Agua fue con gusto salado, pero es normal para esos lugares. Ya hace tiempo para dejarme en algo lugar. Alejando unos dos kilometros por camino rural, encontro plantacion de arboles bajos y desconocidos para mi y dejarme ahi. A pasar de la hache, por carretera pasaron comiones volcuentes, con estruendo y levantaron polvo.</p>
+
  <a href="/assets/ufa_akyar/DSCN0203.jpg"><img src="/assets/ufa_akyar/DSCN0203.jpg" width="640"></a>
  
 Утром выяснилось, что я не доехал до Акъяра всего километров 5. На въезде мое внимание привлек сей интересный агрегат: 
+
+<p style="color: green;">En la manana aclaro que no llege a Akyar unas 5 kilometros. En entrada atrae mi atencion ese aparato interesante:</p>
  
  <a href="/assets/ufa_akyar/DSCN0201.jpg"><img src="/assets/ufa_akyar/DSCN0201.jpg" width="640"></a>
  
 В Акъяре я затарился макаронами и печеньем. Хотел еще соли у кого-нибудь на улице спросить, но похоже все были на работе. Объехав Акъяр кругом, я направился в сторону Сибая. Дул встречный ветер, и не смотря на безоблачное небо и светящее солнце было холодно. По температуре этот день был самым холодным. 
 
+  <p style="color: green;">En Akyar compre los macarrones y galletas. Tambien quise prdir unpoco de sal a algien de la calle, pero parece que todos fueron en trabajo. </p>
+
 <a href="/assets/ufa_akyar/DSCN0209.jpg"><img src="/assets/ufa_akyar/DSCN0209.jpg" width="640"></a>
   
 С водой в этих краях не все гладко. Я решил набрать воду пораньше и заехал в одну деревню. Пришлось набрать воды из колодца и, надо сказать, она была не лучшего качества, как будто в колодец упало что-то живое и перестало быть живым... 
 
+
+<p style="color: green;">Con agua en esos lugares no toda esta bien. Decidi hacer provision de agua cunto antes, y llege a un pueblito. Tuve que tomar agua de un pozo y hay que decir la fue calidad no muy grande, como si algo vivo ha caido a ese pozo y termino ser vivo...</p>
+
 <a href="/assets/ufa_akyar/DSCN0218.jpg"><img src="/assets/ufa_akyar/DSCN0218.jpg" width="640"></a>
 
 Встал ночевать в тот день пораньше, чтобы побольше поспать. Место было довольно интересное - пятачок очень плотных кустов клена, березы и шиповника посреди бескрайнего поля. Заросли были столь плотны, что не было никакой возможности залезть в них, но я наломал сухих веток с краю и развел костер. Кипятил котелок поставив его возле костра так, чтобы ветер дул огнем на него. Пока вскипала вода я незадачливо пошел ставить палатку. Когда вернулся, выяснилось, что этот пучек кустов очень даже обитаем - какой-то грызун чуть крупнее мыши, не боясь костра, сидел на мешке с продуктами и хрустел печеньем за обе щеки. Увидев меня, он мгновенно нырнул в кусты, утащив кажется одну печеньку с собой. 
+
+<p style="color: green;">Me instale para pernoctar en este dia mas temporano, para dirmir mas. Lugar fue muy interesante - palmo de terreno con arbustos muy desnos de acer, abedul y escaramujo en centro del campo infinito. Matorral fue tan desno, que nohay ninguna posibilidad pasr por las, pero rompe unos ramas y encendo hoguera. Hirvi caldera, lo instalando acerca de hoguera tal, para viento sopla a el con fuego. Mientras agua hirviada, yo pase instalar tienda. Cuando regrese, se aclaro, que esos arbustos fueron muy habitados - algun roedor unpoco mas grande que raton fue sentido en saca con alumentos y crujo de galletos  a dos carrillos. Me ha visto y penetro a arbustos instantaneamente, y parese, llevo con el una galleta.</p>
+
 
 <a href="/assets/ufa_akyar/DSCN0220.jpg"><img src="/assets/ufa_akyar/DSCN0220.jpg" width="640"></a>
 
