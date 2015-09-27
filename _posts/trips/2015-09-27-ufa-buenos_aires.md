@@ -4,6 +4,10 @@ title: Путь из Уфы до Буэнос Айреса - El camino de Ufa a 
 categories: trips
 ---
 
+Пока что без фоток, потом загружу. Спать хочу.
+
+<p style="color: green;">Ahora sin fotos, cargo despues. Quiero dormir.</p> 
+
 Поезд отправлялся в 1:40 по Уфе. Вечером у меня дома собралось много народу, всем друзьям хотелось проводить меня в дальний путь. 
 Сам же я как обычно ничего вовремя не успел, и вместо посиделок со веми собирал вещи, было очень важно ничего не забыть.
 
@@ -67,3 +71,22 @@ Gracias a mi, salieron sin tiempo en reserva, llegando a 8 minutos de salida de 
 На посадку на рейс я попал одним из первых. Прошедшего передо мной негра притормозили и потребовали обратный белет, я даже сам напрягся, не повернут ли меня. Но на стойке контроля я сказал "Paso transito de Rusia" и ко мне вопросов не было. Самолет был большой. Но взлетал мягче, и не разгерметизировался на высоте. Когда пролетали над Африкой экипаж самолета попросил закрыть иллюминаторы. И скоро я понял почему -  сонце жарило так сильно, что невозможно было дотронуться до заслонки иллюминатора.
 
 <p style="color: green;">En  embarque cai como un de primeros. Un negro, pasando antes de mi, frenaron y exigieron billetes vueltos, ya yo aumente, si no volvieron a mi. Pero en tablero yo dije "Paso transito de Rusia" y no hay preguntas a mi. el avion estaba grande, pero vuelo mas blandamente, y no ha deshermetisado en altura. Cuando volaron sobre Africa empleos de avion pidieron acercar los portillos. Y unpoco despues yo entendi porque - sol abraso tan fuerte que no pude tocar tapa de portillo.</p>
+
+Приземление в Сан Паоло было чуть более жестким чем в Стамбуле. Шли на посадку прямо над жилым районом из трущеб и многоэтажек (странное 
+сочетание для житиля России).
+
+<p style="color: green;">Atterizaje en San Pablo fue mas duro que en Stambul. Fuimos a atterizaje exacto sobre barrios vividos de tugirios y razcacielos (raro combinacion para hapitante de Rusia).</p> 
+
+Выйти из самолета нам не дали, сидели  3 часа. Взлет был уже в темноте. Видимость была никакая, летели над облаками. Буэнос Айрес появился внезапно, когда самолет начал снижаться. Город был действительно огромен. Сделав круг, самолет таки приземлился.
+
+<p style="color: green;">Salir de avion no permite, sentamos 3 horas. Visto fue muy mal, volamos sobre nabos. Buenos Aires parece derepente, cuando el avion empezo bajarse. La ciudad fue grande realmente. Haciendo una vuelta el avion ha atterizado.</p> 
+
+в аэропорту на паспортном контроле попался противный бюрократ. Спросил адрес жилища в которое я направляюсь. А я как то из забыл совсем, что надо спросить у человека который меня к сибе принял. Минут 5 с ним пообщались, и он согласился, дескать раз уж ты из такой дали сюда приехал, ну не возвращать же тебя обратно. 
+
+<p style="color: green;">En aeropuerto en control de pasaportes cai un burocrata repugnable. Pregunta el direccion de casa donde voy a pernoctar. Y yo olvido absoluto preguntar lo de hombre quien hospedarme. Hable con el 5 minutos y el de ocuerdo - porque tu llegaste tan lejos, no puedes ya regresarte atras.</p> 
+
+
+На входе в аэропорт меня встретил товарищ, и мы поехали домой к нему на автобусах. Это была уже ночь, но жизнь в в городе не останавливалась. Все было очень незнакомым, я понял это однозначно не Россия.
+
+<p style="color: green;">En entrada me espere un camarada, y despues vamos a su casa en colectivos. Fue la noche, pero vivida en la ciudad no paro. Todo fue muy desconocido, yo entiendo que eso no es Rusia univocamente.</p> 
+ 
