@@ -4,9 +4,7 @@ title: Путь из Уфы до Буэнос Айреса - El camino de Ufa a 
 categories: trips
 ---
 
-Пока что без фоток, потом загружу. Спать хочу.
-
-<p style="color: green;">Ahora sin fotos, cargo despues. Quiero dormir.</p> 
+<a href="/assets/ufa_akyar/track.jpg"><img src="/assets/ufa_akyar/track.jpg" width="640"></a>
 
 Поезд отправлялся в 1:40 по Уфе. Вечером у меня дома собралось много народу, всем друзьям хотелось проводить меня в дальний путь. 
 Сам же я как обычно ничего вовремя не успел, и вместо посиделок со веми собирал вещи, было очень важно ничего не забыть.
@@ -19,6 +17,8 @@ categories: trips
 <p style="color: green;">A pasar de mis protestos a mi mochila han metado saca de galletas, llevar peso de la a 20 kg. 
 Gracias a mi, salieron sin tiempo en reserva, llegando a 8 minutos de salida de tren. Cargando me a tren exitamente, multitud de mis amigos fue a hacer las fotos, obseandos a ancargada del vagon, a algien ya toco la guitara. Hablando en general, todos en tren se asombraron a este espectaculo, y ya maquinista pasa el tren mas tarde a unos minutos.</p>
 
+<a href="/assets/ufa_akyar/0420.jpg"><img src="/assets/ufa_akyar/0420.jpg" width="640"></a>
+
 Был самый обычный плацкартный вагон, битком набитый людьми, с душным спертым воздухом. На протяжение всего пути я занимался уменьшением веса рюкзака за счет печенья, и немного переводил этот блог.
 
 <p style="color: green;">Fue muy habitual vagon con sientos reservados, lleno gente y aire viciado. Mientras de camino, yo baje peso de mochila gracias a galletas, y unpoco traduje ese blog.</p>
@@ -28,13 +28,21 @@ Gracias a mi, salieron sin tiempo en reserva, llegando a 8 minutos de salida de 
 
 <p style="color: green;">El tren como debe ser llego al estacion Kazansky de Moscu. Yo paso a metro preguntado a berrendero. Como provinciano, me parece que ahi hay demaciado mucho gente, como posible pasar con mi mochila? Pero todo resulto bueno organizado, comprando billete, yo pase con torrent al estacion Komsomolskaya y subi a vagon perlito. Muy rapido el me llego a estacion Sudoeste, donde con multitud yo toma autobus №611с. De nuevo como provinciano me asombro la organization - pagar en entrada, al mismo tiempo conductor me ha comprado tarjeta analogica de metro y con ella necesite abrir torniquete en entrada. No fue atascamientos, llegararon pronto.</p>
 
+<a href="/assets/ufa_akyar/0423.jpg"><img src="/assets/ufa_akyar/0423.jpg" width="640"></a>
+
 Внуково мне показалось каким-то сараем из металлических балок и профнастила, но размах архитекторов все же был грандиозен. Бесплатный Wifi был, правда через каждые полчаса приходилось перелогиниваться, а если сидеть в месте где много народу, он постоянно падал от перегрузок.
 
 <p style="color: green;">Aeropuerto Vnukovo me parece como un gatero de vigas metalicos y laminas, pero escala de las arquitectores fue grandioso, Fue gratis Wifi, pero cada 30 minutos tiene que hacer relogin, en lugares con mucha gente se cayo siempre de sabrecargas.</p>
 
+<a href="/assets/ufa_akyar/0430.jpg"><img src="/assets/ufa_akyar/0430.jpg" width="640"></a>
+
 Пришлось довольно долго подождать. Я бродил по аэропорту изучая его, потом вышел и немного погулял по улице. Когда на табло объявили начало регистрации я был почти первым. Мой рюкзак сразу не понравился - вроде как по всем параметрам проходит, но это ведь рюкзак, в негабаритный груз отправили, пообещав что ничего доплачивать не придется. Посмотрим...
 
 <p style="color: green;">Tuve que esperar bastante mucho. Pase por todo aeropuerto le investigando, despues me fui al calle y sali unpoco. Cuando en el marcador declaro comienzo de registracion yo fui casi el primero. Mi mochila no le gusla de una vez - parece que por todos parametros fue normal, pero es que es mochila, enviaron a no normativo cargo, prometiendo que no tendre que pagar mas. Que sabe...</p>
+
+<a href="/assets/ufa_akyar/0434.jpg"><img src="/assets/ufa_akyar/0434.jpg" width="640"></a>
+
+<a href="/assets/ufa_akyar/0448.jpg"><img src="/assets/ufa_akyar/0448.jpg" width="640"></a>
 
 Потом пошел на таможню, миграционную службу, проверку руной клади. Ко мне вопросов не возникало. Оставшихся 2 часа провел я гуляя около гейтов. Посадку объявили поздно, зато последнюю проверку проводили бегом - чтобы успеть в срок. У меня просто вырвали из рук билет, оторвали корешок и швырнули остаток в паспорт, кажется за это время было невозможно что-либо там увидеть.
 
@@ -44,6 +52,8 @@ Gracias a mi, salieron sin tiempo en reserva, llegando a 8 minutos de salida de 
 
 <p style="color: green;">Caliente piloto de Turquia antes de vuelo ha dicho una frase en arab (Un rezo?) y dio gas lleno. En brusco subida he hundido fuerte. En altura la vista fue lam gracias de vapor.</p>
 
+<a href="/assets/ufa_akyar/0454.jpg"><img src="/assets/ufa_akyar/0454.jpg" width="640"></a>
+
 Кормили хорошо. Когда перегрузка взлета прошла, раздали всем по конфетке и предлагали выпить. Потом подали нечто вроде плова, но на подносе было еще много чего. 
 
 <p style="color: green;">Nutrieron bueno, Cuando subrecargas ha terminado, distribuyeron por un bombon y propusieron beber. Despues llevaron algo tipo de plov, pero en el plato hay muchas cosas.</p>
@@ -52,9 +62,15 @@ Gracias a mi, salieron sin tiempo en reserva, llegando a 8 minutos de salida de 
 
 <p style="color: green;">Unico momento aumentome - quizas avion se ha deshermetisado, quizas el no ha hermetisado... Generalmente senti me tal, como primero dia en las montanas, y ya peor. De duele de cabeza me he sumetido en sueno pesado, y me desperto una brusca bajada - tuve oidos taponados - fueron llegando al Stambul.</p>
 
+<a href="/assets/ufa_akyar/0457.jpg"><img src="/assets/ufa_akyar/0457.jpg" width="640"></a>
+
 Аэропорт Ататюрк был больше Внуково, и еще безобразнее. Тот же сарай, только без замахов на грандиозность и с низкими потолками. На полосах много где был недоделанный ремонт. В довершение тут отсутствовал бесплатный Wifi. Было несколько доступных сетей, которые предлагали интернет за N килорублей. Была правда возможность бесплатно пользовать одну сеть бесплатно целых 2 часа, если проделать некие магические действия со своим билетом и терминалом. Но вот незадача - у первого из этих аппаратов закончилась бумага, а у второго кажется и вовсе система полетела, когда я начал на экране что-то тыкать.
 
 <p style="color: green;">Aeropuerto Ataturk fue mas grande que Vnukovo, u mas feo. Mismo gatero, solo no grandioso y con techos bajos. En cerreteras en unas lugares fue reparacion. E en fin - ahi no hay wifi gratis. Hay unos redes accesibles, cuales propuseron internet por N dineros. A decir verdad, fue posibilidad usar una red yo 2 horas, si hacer unos acciones magicos con su billete y terminal. Pero hay mala suerle - en un aparato ha terminada papel, y en otro se cayo sistema, cuando yo fui a apretar algo en el.</p>
+
+<a href="/assets/ufa_akyar/0465.jpg"><img src="/assets/ufa_akyar/0465.jpg" width="640"></a>
+
+<a href="/assets/ufa_akyar/0474.jpg"><img src="/assets/ufa_akyar/0474.jpg" width="640"></a>
 
 А сколько тут было людей! Просто Вавилонское столпотворение. 70 % - китайцы, 20 - мусульманской внешности, оставшиеся 10 - европейцы. Были негры, негорорые носили необычную одежду - вроде халатов, длинную до земли, и как правило однотонную. Была целая группа таких людей с большими крестами на шеях.
 
@@ -72,14 +88,24 @@ Gracias a mi, salieron sin tiempo en reserva, llegando a 8 minutos de salida de 
 
 <p style="color: green;">En  embarque cai como un de primeros. Un negro, pasando antes de mi, frenaron y exigieron billetes vueltos, ya yo aumente, si no volvieron a mi. Pero en tablero yo dije "Paso transito de Rusia" y no hay preguntas a mi. el avion estaba grande, pero vuelo mas blandamente, y no ha deshermetisado en altura. Cuando volaron sobre Africa empleos de avion pidieron acercar los portillos. Y unpoco despues yo entendi porque - sol abraso tan fuerte que no pude tocar tapa de portillo.</p>
 
+<a href="/assets/ufa_akyar/0498.jpg"><img src="/assets/ufa_akyar/0498.jpg" width="640"></a>
+
+<a href="/assets/ufa_akyar/0501.jpg"><img src="/assets/ufa_akyar/0501.jpg" width="640"></a>
+
+<a href="/assets/ufa_akyar/0505.jpg"><img src="/assets/ufa_akyar/0505.jpg" width="640"></a>
+
 Приземление в Сан Паоло было чуть более жестким чем в Стамбуле. Шли на посадку прямо над жилым районом из трущеб и многоэтажек (странное 
 сочетание для житиля России).
 
 <p style="color: green;">Atterizaje en San Pablo fue mas duro que en Stambul. Fuimos a atterizaje exacto sobre barrios vividos de tugirios y razcacielos (raro combinacion para hapitante de Rusia).</p> 
 
+<a href="/assets/ufa_akyar/0523.jpg"><img src="/assets/ufa_akyar/0523.jpg" width="640"></a>
+
 Выйти из самолета нам не дали, сидели  3 часа. Взлет был уже в темноте. Видимость была никакая, летели над облаками. Буэнос Айрес появился внезапно, когда самолет начал снижаться. Город был действительно огромен. Сделав круг, самолет таки приземлился.
 
 <p style="color: green;">Salir de avion no permite, sentamos 3 horas. Visto fue muy mal, volamos sobre nabos. Buenos Aires parece derepente, cuando el avion empezo bajarse. La ciudad fue grande realmente. Haciendo una vuelta el avion ha atterizado.</p> 
+
+<a href="/assets/ufa_akyar/0547.jpg"><img src="/assets/ufa_akyar/0547.jpg" width="640"></a>
 
 в аэропорту на паспортном контроле попался противный бюрократ. Спросил адрес жилища в которое я направляюсь. А я как то из забыл совсем, что надо спросить у человека который меня к сибе принял. Минут 5 с ним пообщались, и он согласился, дескать раз уж ты из такой дали сюда приехал, ну не возвращать же тебя обратно. 
 
@@ -89,4 +115,5 @@ Gracias a mi, salieron sin tiempo en reserva, llegando a 8 minutos de salida de 
 На входе в аэропорт меня встретил товарищ, и мы поехали домой к нему на автобусах. Это была уже ночь, но жизнь в в городе не останавливалась. Все было очень незнакомым, я понял это однозначно не Россия.
 
 <p style="color: green;">En entrada me espere un camarada, y despues vamos a su casa en colectivos. Fue la noche, pero vivida en la ciudad no paro. Todo fue muy desconocido, yo entiendo que eso no es Rusia univocamente.</p> 
- 
+
+<a href="/assets/ufa_akyar/0572.jpg"><img src="/assets/ufa_akyar/0572.jpg" width="640"></a>
