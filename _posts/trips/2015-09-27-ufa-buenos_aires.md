@@ -7,12 +7,12 @@ categories: trips
 <a href="/assets/ufa-BA/track.jpg"><img src="/assets/ufa-BA/track.jpg" width="640"></a>
 
 Поезд отправлялся в 1:40 по Уфе. Вечером у меня дома собралось много народу, всем друзьям хотелось проводить меня в дальний путь. 
-Сам же я как обычно ничего вовремя не успел, и вместо посиделок со веми собирал вещи, было очень важно ничего не забыть.
+Сам же я как обычно ничего вовремя не успел, и вместо посиделок со всеми собирал вещи, было очень важно ничего не забыть.
 
-<p style="color: green;">El tren vs a salir en 1:40 por Ufa. En la tarde en mi casa se reunidaron mucha gente, todos amigos queren acompanar me a camino lejano. Mismo yo como siempre no tengo tienpo para haser lo, y en lugar de carava con todos, yo prepare mi equipaje, fue muy importante no olvidar algo.</p>
+<p style="color: green;">El tren va a salir en 1:40 por Ufa. En la tarde en mi casa se reunidaron mucha gente, todos amigos queren acompanar me a camino lejano. Mismo yo como siempre no tengo tienpo para haser lo, y en lugar de carava con todos, yo prepare mi equipaje, fue muy importante no olvidar algo.</p>
 
 Не смотря на мои протесты, в мой рюкзак был засунут мешок с печеньем, доведя его вес таким образом до 20 кг.
-Вышли из-за меня прямо вплотняк, придя на вокзал за 8 минут до отправления поезда. Успешно меня погрузив, толпа друзей стала фоткать меня, ослепляя проводницу, а кто-то из них даже играл на гитаре. Вобщем, такому зрелищу удиалялся весь поезд, и даже машинист стартовал состав на пару минут позже.
+Вышли из-за меня прямо вплотняк, придя на вокзал за 8 минут до отправления поезда. Успешно меня погрузив, толпа друзей стала фоткать меня, ослепляя проводницу, а кто-то из них даже играл на гитаре. Вобщем, такому зрелищу удивлялся весь поезд, и даже машинист стартовал состав на пару минут позже.
 
 <p style="color: green;">A pasar de mis protestos a mi mochila han metado saca de galletas, llevar peso de la a 20 kg. 
 Gracias a mi, salieron sin tiempo en reserva, llegando a 8 minutos de salida de tren. Cargando me a tren exitamente, multitud de mis amigos fue a hacer las fotos, obseandos a ancargada del vagon, a algien ya toco la guitara. Hablando en general, todos en tren se asombraron a este espectaculo, y ya maquinista pasa el tren mas tarde a unos minutos.</p>
@@ -23,7 +23,7 @@ Gracias a mi, salieron sin tiempo en reserva, llegando a 8 minutos de salida de 
 
 <p style="color: green;">Fue muy habitual vagon con sientos reservados, lleno gente y aire viciado. Mientras de camino, yo baje peso de mochila gracias a galletas, y unpoco traduje ese blog.</p>
 
-Поезд как положено прибыл на Казанский Вокзал Москвы. Спросив у местного дворника дорогу, я прошел в метро. Как провинциалу, мне показалось, что тут народу немерено, как тут вообще пройти с моим рюкзаком? Но оказалось что все отлажено, купив билет, я вместе с потоком я прошел на станцию Комсомольская и сел в битком набитый вогон. Очень быстро он привез меня на станцию Юго-Западная, где я все также с толпой народу сел в автобус № 611с. Как провинциала, меня опять удивила организация - оплата при входе, причем водитель прода мне такую же карточку как в метро, и ею нужно было открыть расположенный на входе турникет.
+Поезд как положено прибыл на Казанский Вокзал Москвы. Спросив у местного дворника дорогу, я прошел в метро. Как провинциалу, мне показалось, что тут народу немерено, как тут вообще пройти с моим рюкзаком? Но оказалось что все отлажено, купив билет, я вместе с потоком я прошел на станцию Комсомольская и сел в битком набитый вогон. Очень быстро он привез меня на станцию Юго-Западная, где я все также с толпой народу сел в автобус № 611с. Как провинциала, меня опять удивила организация - оплата при входе, причем водитель продал мне такую же карточку как в метро, и ею нужно было открыть расположенный на входе турникет.
 Пробок не было, доехали быстро.
 
 <p style="color: green;">El tren como debe ser llego al estacion Kazansky de Moscu. Yo paso a metro preguntado a berrendero. Como provinciano, me parece que ahi hay demaciado mucho gente, como posible pasar con mi mochila? Pero todo resulto bueno organizado, comprando billete, yo pase con torrent al estacion Komsomolskaya y subi a vagon perlito. Muy rapido el me llego a estacion Sudoeste, donde con multitud yo toma autobus №611с. De nuevo como provinciano me asombro la organization - pagar en entrada, al mismo tiempo conductor me ha comprado tarjeta analogica de metro y con ella necesite abrir torniquete en entrada. No fue atascamientos, llegararon pronto.</p>
@@ -44,7 +44,7 @@ Gracias a mi, salieron sin tiempo en reserva, llegando a 8 minutos de salida de 
 
 <a href="/assets/ufa-BA/0448.jpg"><img src="/assets/ufa-BA/0448.jpg" width="640"></a>
 
-Потом пошел на таможню, миграционную службу, проверку руной клади. Ко мне вопросов не возникало. Оставшихся 2 часа провел я гуляя около гейтов. Посадку объявили поздно, зато последнюю проверку проводили бегом - чтобы успеть в срок. У меня просто вырвали из рук билет, оторвали корешок и швырнули остаток в паспорт, кажется за это время было невозможно что-либо там увидеть.
+Потом пошел на таможню, миграционную службу, проверку ручной клади. Ко мне вопросов не возникало. Оставшихся 2 часа провел я гуляя около гейтов. Посадку объявили поздно, зато последнюю проверку проводили бегом - чтобы успеть в срок. У меня просто вырвали из рук билет, оторвали корешок и швырнули остаток в паспорт, кажется за это время было невозможно что-либо там увидеть.
 
 <p style="color: green;">Despues pase a aduana, servicio migracion, control de equipaje de mano. No hay preguntas a mi. 2 Ultimos horas paso saliedno acerca de gates. Embarque fue muy tarde, pero ultimo control fue muy rapido. Mi billete arrancaron de mis manos, rompoeron parte de el y echaron otra parte a mi pasaporte, perece que por este tiempo fue imposible ver algo en el.</p>
 
@@ -72,11 +72,11 @@ Gracias a mi, salieron sin tiempo en reserva, llegando a 8 minutos de salida de 
 
 <a href="/assets/ufa-BA/0474.jpg"><img src="/assets/ufa-BA/0474.jpg" width="640"></a>
 
-А сколько тут было людей! Просто Вавилонское столпотворение. 70 % - китайцы, 20 - мусульманской внешности, оставшиеся 10 - европейцы. Были негры, негорорые носили необычную одежду - вроде халатов, длинную до земли, и как правило однотонную. Была целая группа таких людей с большими крестами на шеях.
+А сколько тут было людей! Просто Вавилонское столпотворение. 70 % - китайцы, 20 - мусульманской внешности, оставшиеся 10 - европейцы. Были негры, некторые носили необычную одежду - вроде халатов, длинную до земли, и как правило однотонную. Была целая группа таких людей с большими крестами на шеях.
 
 <p style="color: green;">Y cuanto gente hay por aqui! Realidad bebel. 70% - chines, 20 - musulmanos, qejarse 10 - europeos. Tambien fue muchos negros, cuales se pusieron ropa neordinario - algo tipo de bata, largo a suelo, como regla de un color. Fue una grupa de tal gente con cruzos grandes en los cuellos.</p>
 
-Делать было нечего, пообщавшись с сотрудникаим авиакомпании на испанско-русском диалекте английского я снял кеды, засинул их в рюкзак, чтобы не убежали, а затем завалился спать на свободном диване, подложив рюкзак под голову. Спал по понятным причинам плохо, проснулся рано, от холода. Чтобы согреться пришлось немного походить по залам аэрпорта. Людей было поменьше чем вчера, многие из них спали, причем на полу, а не на скамейках.
+Делать было нечего, пообщавшись с сотрудниками авиакомпании на испанско-русском диалекте английского я снял кеды, засунул их в рюкзак, чтобы не убежали, а затем завалился спать на свободном диване, подложив рюкзак под голову. Спал по понятным причинам плохо, проснулся рано, от холода. Чтобы согреться пришлось немного походить по залам аэропорта. Людей было поменьше чем вчера, многие из них спали, причем на полу, а не на скамейках.
 
 <p style="color: green;">No tuve cosas que hacer, he ablando con emlpeados de aeropuerto en esponol-ruso dialecto de ingles, quite zapatos, las puse en mochila, para no se escaparon, y despues me acoste a cama libre poniendo debojo de mi cabeza la mochila. Dormi mal por razones conprensibles, desperte temporano de frio. Para calentarme tuve que andar por salos de aeropuerto. Fue menos gente que ayer, muchas fueron dormiendos, pero en suelo, y no en camas.</p>
 
@@ -84,7 +84,7 @@ Gracias a mi, salieron sin tiempo en reserva, llegando a 8 minutos de salida de 
 
 <p style="color: green;">De 2 horas a vuelo en marcador enfrente de mi vuelo parece numero de gate. Me dirigi por aqui y cai a sala llena gente que hablaron por espanol. Ellos se portaron no tal como europeos, mas libre me parece, por ejemplo desconocidos pudieron comenzar a hablar y tratar sobre varios cosas mucho tiempo.</p>
 
-На посадку на рейс я попал одним из первых. Прошедшего передо мной негра притормозили и потребовали обратный белет, я даже сам напрягся, не повернут ли меня. Но на стойке контроля я сказал "Paso transito de Rusia" и ко мне вопросов не было. Самолет был большой. Но взлетал мягче, и не разгерметизировался на высоте. Когда пролетали над Африкой экипаж самолета попросил закрыть иллюминаторы. И скоро я понял почему -  сонце жарило так сильно, что невозможно было дотронуться до заслонки иллюминатора.
+На посадку на рейс я попал одним из первых. Прошедшего передо мной негра притормозили и потребовали обратный билет, я даже сам напрягся, не повернут ли меня. Но на стойке контроля я сказал "Paso transito de Rusia" и ко мне вопросов не было. Самолет был большой. Но взлетал мягче, и не разгерметизировался на высоте. Когда пролетали над Африкой экипаж самолета попросил закрыть иллюминаторы. И скоро я понял почему -  солнце жарило так сильно, что невозможно было дотронуться до заслонки иллюминатора.
 
 <p style="color: green;">En  embarque cai como un de primeros. Un negro, pasando antes de mi, frenaron y exigieron billetes vueltos, ya yo aumente, si no volvieron a mi. Pero en tablero yo dije "Paso transito de Rusia" y no hay preguntas a mi. el avion estaba grande, pero vuelo mas blandamente, y no ha deshermetisado en altura. Cuando volaron sobre Africa empleos de avion pidieron acercar los portillos. Y unpoco despues yo entendi porque - sol abraso tan fuerte que no pude tocar tapa de portillo.</p>
 
@@ -95,7 +95,7 @@ Gracias a mi, salieron sin tiempo en reserva, llegando a 8 minutos de salida de 
 <a href="/assets/ufa-BA/0505.jpg"><img src="/assets/ufa-BA/0505.jpg" width="640"></a>
 
 Приземление в Сан Паоло было чуть более жестким чем в Стамбуле. Шли на посадку прямо над жилым районом из трущеб и многоэтажек (странное 
-сочетание для житиля России).
+сочетание для жителя России).
 
 <p style="color: green;">Atterizaje en San Pablo fue mas duro que en Stambul. Fuimos a atterizaje exacto sobre barrios vividos de tugirios y razcacielos (raro combinacion para hapitante de Rusia).</p> 
 
@@ -107,7 +107,7 @@ Gracias a mi, salieron sin tiempo en reserva, llegando a 8 minutos de salida de 
 
 <a href="/assets/ufa-BA/0547.jpg"><img src="/assets/ufa-BA/0547.jpg" width="640"></a>
 
-в аэропорту на паспортном контроле попался противный бюрократ. Спросил адрес жилища в которое я направляюсь. А я как то из забыл совсем, что надо спросить у человека который меня к сибе принял. Минут 5 с ним пообщались, и он согласился, дескать раз уж ты из такой дали сюда приехал, ну не возвращать же тебя обратно. 
+в аэропорту на паспортном контроле попался противный бюрократ. Спросил адрес жилища в которое я направляюсь. А я как то из забыл совсем, что надо спросить у человека который меня к себе принял. Минут 5 с ним пообщались, и он согласился, дескать раз уж ты из такой дали сюда приехал, ну не возвращать же тебя обратно. 
 
 <p style="color: green;">En aeropuerto en control de pasaportes cai un burocrata repugnable. Pregunta el direccion de casa donde voy a pernoctar. Y yo olvido absoluto preguntar lo de hombre quien hospedarme. Hable con el 5 minutos y el de ocuerdo - porque tu llegaste tan lejos, no puedes ya regresarte atras.</p> 
 
