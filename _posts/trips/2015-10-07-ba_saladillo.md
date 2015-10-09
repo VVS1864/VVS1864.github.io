@@ -98,3 +98,5 @@ categories: trips
 <a href="/assets/step_1/DSCN0819.jpg"><img src="/assets/step_1/DSCN0819.jpg" width="640"></a>
 
 В 25 де Майо я по адресу довольно быстро нашел дом товарища который меня к себе пригласил. Город мне показался очень хорошим, велосипеды тут оставляли на улицах без тросов и кандалов. Но об этом в следующий раз.
+
+<a href="https://fotki.yandex.ru/users/simonovsen/album/220348">Больше фоток - Mas fotos</a>
