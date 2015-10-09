@@ -4,7 +4,7 @@ title: 1 - Буэнос Айрес - 25 де Майо - Buenos Aires - 25 de May
 categories: trips
 ---
 
-<a href="/assets/step_1/track.jpg"><img src="/assets/step_1/track_z11.jpg" width="640"></a>
+<a href="/assets/step_1/track_z11.jpg"><img src="/assets/step_1/track.jpg" width="640"></a>
 
 После многих попыток мне таки удалось уложить рюкзак. Он был тяжел, чуть более чем обычно. Запасные покрышки не влезли, пришлось надеть их на рюкзак снаружи. В полном комплекте все это весило 20-21 кг (с водой).
 
