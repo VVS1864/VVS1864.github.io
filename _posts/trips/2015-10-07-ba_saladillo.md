@@ -8,24 +8,33 @@ categories: trips
 
 После многих попыток мне таки удалось уложить рюкзак. Он был тяжел, чуть более чем обычно. Запасные покрышки не влезли, пришлось надеть их на рюкзак снаружи. В полном комплекте все это весило 20-21 кг (с водой).
 
-<a href="/assets/step_1/DSCN0722.jpg"><img src="/assets/step_1/DSCN0722.jpg" width="640"></a>
+<p style="color: green;">Despues de muchas pruebas, he podido colocar cosas en mochila. La fue pesada, unpoco mas que normalmente. Cubertas de respuesto no entraron, tuve que poner las ofuera de mochila. En todo completo pesaba 20-21 kilos (con agua).</p>
 
-<p style="color: green;"></p>
+<a href="/assets/step_1/DSCN0722.jpg"><img src="/assets/step_1/DSCN0722.jpg" width="640"></a>
 
 Товарищи из Буэнос Айреса уговорили меня проехать на электричке первые города - так безопаснее, потому что на дорогах очень много грузовиков, дороги узкие, да и места сами по себе не безопасные.
 На станции Конститусион я спросил в кассе билет до Канюэлоса. Кассир что-то у меня спрашивал, но расслышать его в шуме вокзала было нереально, я просто повторил еще раз, и он понял. Стоимость была низкая - 7.5 песо - 0.5 доллара, 33 рубля.
+
+<p style="color: green;">Camaradas de Buenos Aires me han determinado pasar en tren primeros ciudados - es mas seguro, porque en las carreteras hay muchas camiones, rutas son estrechas, y tambien lugares propios no muy seguros. En estacion Constitucion yo pedi pasaje a Conuelas. Cajero me pregunto algo, pero fue inposible oir nunguno en ruido de estacion, yo solo repeti otra vez y el me entendio. Cuesta fue muy baja - 7.5 peso - 0.5 dolar, 33 rublos.</p>
 
 <a href="/assets/step_1/DSCN0724.jpg"><img src="/assets/step_1/DSCN0724.jpg" width="640"></a>
 
 Электричка была как в России, только без тамбуров, вход сразу в вагон. Станция Эсэйза была конечной для электрички, дальше я пересел на поезд с тепловозом. У меня даже билет не спросили, я просто закинул велосипед в тамбур. Вопросы начались потом, вроде "путешественник да? А куда едешь?", "А из какой ты страны?". Под конец пути ко мне подсел один парень, поговорили немного, предложил мне поесть, что-то вроде ватрушки. Потом помог на Конюэласе велосипед выгрузить и проводил до главной улицы.
 
+
+<p style="color: green;">Tren electrico fue casi como en Rusia, solo sin plataforma, entrada al vagon. Estacion Ezeiza fue terminada para tren electrco, despues yo transborde al tren con locomotora. Nunca no controlaron mi pasaje, yo solo llebo bicicleta al plataforma del tren. Preguntas fueron despues, tipo "Viajero si?", "A donde vas?", "De cual pais?". En fin de camino un chico se sentio a mi, hablamos unpoco, el me proposito comer, alguna factura. Despues el me ha ayudado descargar bici del tren y me acompano a calle principal.</p>
+
 <a href="/assets/step_1/DSCN0729.jpg"><img src="/assets/step_1/DSCN0729.jpg" width="640"></a>
 
 Как обычно когда я начинаю поход - шел дождь. Асфальт, а местами бетон, был очень ровный. Вдоль трассы идет асфальтированная обочина, тут ее называют банкина, когда она есть, ехать одно удовольствие. Ездят тут быстрее чем у нас, и не только потому что дорога хорошая, я встретил знак ограничения скорости в 130 км в час... Много грузовиков, везут зерно или животных. 
 
+<p style="color: green;">Como siempre, cuando comienzo viaje - hace lluvia. Asfalto y el lugares hormigon, fue muy llano. Carretera tiene asfalto en el margen, aca es se llama banquina, cuando la hay, pasar por muy agradable. Pasan aqui mas rapido que en Rusia, encontre un inducador limitation de velosidad en 130 kl por hora... Hay muchas camiones, llevan trigo y animales.</p>
+
 <a href="/assets/step_1/DSCN0766.jpg"><img src="/assets/step_1/DSCN0766.jpg" width="640"></a>
 
 Местность - сплошное поле, местами с островками деревьев. Одно меня не радовало - это заборы. Я чувствовал себя как в садах, когда едешь между двух заборов. Местами они были высокие с колючей проволокой. Но что шокировало - это их повсеместность. Невозможно найти место без забора, они повсюду. К вечеру остро встала проблема куда я буду ставить палатку. Дорога тут это насыпь между двух противотанковых рвов с водой и двух заборов из колючей проволоки - против пехоты. Второстепенные дороги аналогичны, только поуже и без покрытия. 
+
+<p style="color: green;">Lugares - solo campo, con islas de arboles. Una casa no me alegro - es alambre. Senti como en jardines, cuando pasa entre dos carcas. En lugares fueron altos con pinchas. Pero que me ha chocado - cue son por todos partes. Fue inposible encontrar lugar sin alambre, son dondequiera. en la noche fue problema muy granda donde instalar mi carpa. Carretera aca - es terraplen entre dos zanjas antitanques y dos alambres con pinchas - contra infanteria. Rutas secundarios - igual, solo mas estruchos y sin cubierta.</p>
 
 <a href="/assets/step_1/DSCN0738.jpg"><img src="/assets/step_1/DSCN0738.jpg" width="640"></a>
 
@@ -100,3 +109,4 @@ categories: trips
 В 25 де Майо я по адресу довольно быстро нашел дом товарища который меня к себе пригласил. Город мне показался очень хорошим, велосипеды тут оставляли на улицах без тросов и кандалов. Но об этом в следующий раз.
 
 <a href="https://fotki.yandex.ru/users/simonovsen/album/220348">Больше фоток - Mas fotos</a>
+
