@@ -28,13 +28,13 @@ categories: trips
 
 Как обычно когда я начинаю поход - шел дождь. Асфальт, а местами бетон, был очень ровный. Вдоль трассы идет асфальтированная обочина, тут ее называют банкина, когда она есть, ехать одно удовольствие. Ездят тут быстрее чем у нас, и не только потому что дорога хорошая, я встретил знак ограничения скорости в 130 км в час... Много грузовиков, везут зерно или животных. 
 
-<p style="color: green;">Como siempre, cuando comienzo viaje - hace lluvia. Asfalto y el lugares hormigon, fue muy llano. Carretera tiene asfalto en el margen, aca es se llama banquina, cuando la hay, pasar por muy agradable. Pasan aqui mas rapido que en Rusia, encontre un inducador limitation de velocidad en 130 kl por hora... Hay muchas camiones, llevan trigo y animales.</p>
+<p style="color: green;">Como siempre, cuando comienzo viaje - hace lluvia. Asfalto y el lugares hormigon, fue muy llano. Carretera tiene asfalto en el margen, aca es se llama banquina, cuando la hay, pasar por muy agradable. Pasan aqui mas rapido que en Rusia, encontre un indicador limitation de velocidad en 130 kl por hora... Hay muchas camiones, llevan trigo y animales.</p>
 
 <a href="/assets/step_1/DSCN0766.jpg"><img src="/assets/step_1/DSCN0766.jpg" width="640"></a>
 
 Местность - сплошное поле, местами с островками деревьев. Одно меня не радовало - это заборы. Я чувствовал себя как в садах, когда едешь между двух заборов. Местами они были высокие с колючей проволокой. Но что шокировало - это их повсеместность. Невозможно найти место без забора, они повсюду. К вечеру остро встала проблема куда я буду ставить палатку. Дорога тут это насыпь между двух противотанковых рвов с водой и двух заборов из колючей проволоки - против пехоты. Второстепенные дороги аналогичны, только поуже и без покрытия. 
 
-<p style="color: green;">Lugares - solo campo, con islas de arboles. Una casa no me alegro - es alambre. Senti como en jardines, cuando pasa entre dos carcas. En lugares fueron altos con pinchas. Pero que me ha chocado - cue son por todos partes. Fue inposible encontrar lugar sin alambre, son dondequiera. en la noche fue problema muy granda donde instalar mi carpa. Carretera aca - es terraplen entre dos zanjas antitanques y dos alambres con pinchas - contra infanteria. Rutas secundarios - igual, solo mas estrechas y sin cubierta.</p>
+<p style="color: green;">Lugares - solo campo, con islas de arboles. Una casa no me alegro - es alambre. Senti como en jardines, cuando pasa entre dos carcas. En lugares fueron altos con pinchas. Pero que me ha chocado - que son por todos partes. Fue imposible encontrar lugar sin alambre, son dondequiera. En la noche fue problema muy granda donde instalar mi carpa. Carretera aca - es terraplen entre dos zanjas antitanques y dos alambres con pinchas - contra infanteria. Rutas secundarios - igual, solo mas estrechas y sin cubierta.</p>
 
 <a href="/assets/step_1/DSCN0738.jpg"><img src="/assets/step_1/DSCN0738.jpg" width="640"></a>
 
@@ -52,7 +52,7 @@ categories: trips
 
 Дом был заброшен давно. Мне трудно представить людей, которые согласились в нем жить - пол почти земляной, ниже уровня земли. Жуткая влажность. Но казалось, что когда-то тут жили, было место под мойку для посуды, с обратной стороны был туалет - странная смесь российского деревенского туалета и городского унитаза. Была вышка для ветряка, водонапорная бочка, печка с бочкой из-под нефтяного оборудования - для нагрева воды. Около водонапорки росла пальма 60-70 см в диаметре, и больше одного метра на уровне земли, она наросла на одну из стоек водонапорки и сломала ее. 
 
-<p style="color: green;">Casa fue abandonado hace muchos anos. Para mi dificil imaginarse gente, quien quisieron vivir aqui - pisi casi es tierra, abajo de nivel de de tierra. Humedad horible. Pero parece, que aca, hace algo tiempo, vivieron, hay lugar para lavabo, en otra parte hay servicio, estrano mezcla ruso servicio campo con retrete de ciudad. Fue torre de generador del viento, bunker para agua, horno con barrica de aparatos del petroleo - para calentar agua. Acerca de arca de agua crecio una palmera con 60-70 cm en diametro, y mas que 1 mtr en nivel de tierra. La se arraigo en un poste del arca de agua y la se rompio.</p>
+<p style="color: green;">Casa fue abandonado hace muchos anos. Para mi dificil imaginarse gente, quien quisieron vivir aqui - piso casi es tierra, abajo de nivel de de tierra. Humedad horrible. Pero parece, que aca, hace algo tiempo, vivieron, hay lugar para lavabo, en otra parte hay servicio, estrano mezcla ruso servicio campo con retrete de ciudad. Fue torre de generador del viento, bunker para agua, horno con barrica de aparatos del petroleo - para calentar agua. Acerca de arca de agua crecio una palmera con 60-70 cm en diametro, y mas que 1 mtr en nivel de tierra. La se arraigo en un poste del arca de agua y la se rompio.</p>
 
 <a href="/assets/step_1/DSCN0753.jpg"><img src="/assets/step_1/DSCN0753.jpg" width="640"></a>
 
@@ -60,7 +60,7 @@ categories: trips
 
 Все это да еще под дождем производило  гнетущее впечатление. Я поставил полатку возле дома  и зажег горелку (проверять горючесть пальмовых веток под дождем мне не хотелось). Пошел сильный дождь с ветром, палатку трепало, но я думал об одном - никогда не приходилось мне ночевать так, неужели они тут нагородили заборов на всю страну?!
 
-<p style="color: green;">Todo eso, cuando hace lluvia, hico impresion deprimente. Instale carpa cerca de casa y encendi primus (no quise aprobar como queman ramas del palmera con lluvia). Entonces hace lluvia fuerte con viento, golpeteo carpa, pero piense sobre otro - nunca no tuve que pasar la noche tal, es posiple que hicieron alambre en toda pais?!</p>
+<p style="color: green;">Todo eso, cuando hace lluvia, hico impresion deprimente. Instale carpa cerca de casa y encendi primus (no quise aprobar como queman ramas del palmera con lluvia). Entonces hace lluvia fuerte con viento, golpeteo carpa, pero piense sobre otro - nunca no tuve que pasar la noche tal, es posible que hicieron alambre en toda pais?!</p>
 
 <a href="/assets/step_1/DSCN0756.jpg"><img src="/assets/step_1/DSCN0756.jpg" width="640"></a>
 
@@ -68,7 +68,7 @@ categories: trips
 
 Тут было неописуемое количество птиц. Они были большие, и не пели, а скорее кричали. Очень громко и некрасиво. 
 
-<p style="color: green;">En la manana hace sol, colgue bolsa para dormir y ropa en un arbol para secar tal, para sol las ilumino mas tiempo. Pero despues media hora rapa cayo en obscuro... Entonces entendi - sol pasa por sielo por otra lado. Aguja de reloj de sol aca va a girar al otro lado.
+<p style="color: green;">En la manana hace sol, colgue bolsa para dormir y ropa en un arbol para secar tal, para sol las ilumino mas tiempo. Pero despues media hora ropa cayo en obscuro... Entonces entendi - sol pasa por cielo por otra lado. Aguja de reloj de sol aca va a girar al otro lado.
 
 Aca fueron muchisimas pajaros. Fueron grandes, y no cantan, pero gritan. Muy ruidoso y feo.</p>
 
@@ -78,9 +78,9 @@ Aca fueron muchisimas pajaros. Fueron grandes, y no cantan, pero gritan. Muy rui
 
 Следующий день был похож на предыдущий. Все те же заборы, и противотанковые рвы... Это ужасно, по крайней мере мне, как человеку впервые столкнувшемуся с этим явлением, это казалось ужасным. С другой стороны частично это можно понять - тут содержат очень много коров, но на дороге я не встретил не одной. Но местами были огорожены лесочки с поваленными деревьями, в которых никакой скотины в принципе не было. ЗАЧЕМ?
 
-<p style="color: green;">Me he sentado comer al termica, he visto rama peciena, quise tomarla, pero ella parece con patos y se escapo... Que singularidad! No pronto voy a acostumbrarme mucho tiempo.
+<p style="color: green;">Me he sentado comer al termica, he visto rama peciena, quise tomarla, pero ella parece con patas y se escapo... Que singularidad! No pronto voy a acostumbrarme mucho tiempo.
 
-Proximo dia fue parecido a ultimo. Mismos alambre y zanjas antitanques... Es horible, por lo menos a mi, colo hombre que encontre ese fenomeno primera vez, eso parece horible. De otro lado, eso posible entender - aca tienen muchas vacas, pero en carretera no encontre ni una. Pero en lugares fueron cercado con alambre bosques con arboles caidos. PARA QUE?</p>
+Proximo dia fue parecido a ultimo. Mismos alambre y zanjas antitanques... Es horrible, por lo menos a mi, como hombre que encontre ese fenomeno primera vez, eso parece horible. De otro lado, eso posible entender - aca tienen muchas vacas, pero en carretera no encontre ni una. Pero en lugares fueron cercado con alambre bosques con arboles caidos. PARA QUE?</p>
 
 <a href="/assets/step_1/DSCN0775.jpg"><img src="/assets/step_1/DSCN0775.jpg" width="640"></a>
 
@@ -106,7 +106,7 @@ Que observe tambien, que aca todo esta trabajando, casi nada no fue abandonado, 
 
 Вечером я успел доехать до Саладильо (Саладижо на местном акценте). С местом для ночевки опять были проблемы. Я часа 2 парсил окрестности в поисках чего-либо подходящего, но тут было еще хуже чем вчера. Многие поля были затоплены. Я сдался, это невозможно. Проехал к ближайшему домику в лесочке, и объяснил ситуацию. Без особых вопросов мне показали что вот тут можно поставить палатку, не надо ли еще чего? и также спросили, точно ли я завтра уйду. Вообщем, нескоро я начну понимать как думают эти люди.
 
-<p style="color: green;">En la noche llege en Saladillo. Con lugar para pernoctar fueron problemas de nuevo. 2 horas pase alrededores buscando lugar que me sirve, pero aca fue peor que ayer. Muchas campos fueron abajo de agua. Yo capitule, es imposible. Llege a una casa en monte, y explice situacion. Sin muchas preguntas me han mostrado que aqui puedo instalar carpa, y si no necesito algo? Tambien me preguntaron, si exacto que manana voy a salir. Me parece, no pronto voy a entender como piensan esos hombres.</p>
+<p style="color: green;">En la noche llege en Saladillo. Con lugar para pernoctar fueron problemas de nuevo. 2 horas pase alrededores buscando lugar que me sirve, pero aca fue peor que ayer. Muchas campos fueron abajo de agua. Yo capitule, es imposible. Llege a una casa en monte, y explique situacion. Sin muchas preguntas me han mostrado que aqui puedo instalar carpa, y si no necesito algo? Tambien me preguntaron, si exacto que manana voy a salir. Me parece, no pronto voy a entender como piensan esos hombres.</p>
 
 <a href="/assets/step_1/DSCN0785.jpg"><img src="/assets/step_1/DSCN0785.jpg" width="640"></a>
 
@@ -114,9 +114,9 @@ Que observe tambien, que aca todo esta trabajando, casi nada no fue abandonado, 
 
 Решил немного проехать по проселочной дороге. Здесь грунт - супесь, в полусухом состоянии ехать можно, в полумокром и сухом - очень плохо. Встретил заброшенную станцию полиции и школу. Видимо, мне чтобы ночевать, придется всегда искать подобные места.
 
-<p style="color: green;">En proxima manana observe yo una singularidad. Prepare machila y pedi agua, viejecita tomo mi bitella, la lleno agua, y dio a mi, todo sobre de alambre. Despues yo un poco hable c ella sobre naturaleza, vivida en campo, arboles. Pero ella ni una vez no giro su espalda a mi, siempre a cara o cabo. Ya cuando la pregunte como se llama arbol atras de su espalda. En fin de conversasion pregunte donde esta el servicio, y me ha contestado, que estacion de servicio hay en Saladillo. Yo explico, que no estacion de servicio necesito, cantesta - puede ducharse cerca de Saladillo... Dicidi no importunar mas, y dicir "gracias" por agua, sali. En este momento yo he entendido - me entendio bien, es que servicio esta en parte de casa, y de razones de seguridad me ha decidido no entrar dentro alambre secundo...
+<p style="color: green;">En proxima manana observe yo una singularidad. Prepare machila y pedi agua, viejecita tomo mi botella, la lleno agua, y dio a mi, todo sobre de alambre. Despues yo un poco hable c ella sobre naturaleza, vivida en campo, arboles. Pero ella ni una vez no giro su espalda a mi, siempre a cara o cabo. Ya cuando la pregunte como se llama arbol atras de su espalda. En fin de conversacion pregunte donde esta el servicio, y me ha contestado, que estacion de servicio hay en Saladillo. Yo explico, que no estacion de servicio necesito, contesta - puede ducharse cerca de Saladillo... Decidi no importunar mas, y diciendo "gracias" por agua, sali. En este momento yo he entendido - me entendio bien, es que servicio esta en parte de casa, y de razones de seguridad me ha decidido no entrar dentro alambre secundo...
 
-Decidi unpoco pasar por carretera terrena en campo. Terreno aca - arenoso, en medio seco andar posible, en medio mojado y seco - muy mal. Encontre abandonados estacion de guarda y escuela. Me parece, que para pernoctar, siempre tendre que buscar lugares iguales.</p>
+Decidi un poco pasar por carretera terrena en campo. Terreno aca - arenoso, en medio seco andar posible, en medio mojado y seco - muy mal. Encontre abandonados estacion de guarda y escuela. Me parece, que para pernoctar, siempre tendre que buscar lugares iguales.</p>
 
 <a href="/assets/step_1/DSCN0793.jpg"><img src="/assets/step_1/DSCN0793.jpg" width="640"></a>
 
@@ -124,7 +124,7 @@ Decidi unpoco pasar por carretera terrena en campo. Terreno aca - arenoso, en me
 
 Дороги не имеют никакого плана, никаких обозначений, и что самое страшное, проехав по одной дороге с 8 км, я уперся в ворота... Поехал обратно, свернул на другую дорогу, и через 2 км опять ворота... Пришлось возвращаться довольно далеко, вся 20-километровая ветка оказалась тупиковой. 
 
-<p style="color: green;">Carreteras en campo no tienen ningun plan, ningunos indicadores, y que el mas horrible, cuando pase por una carretera 8 km, llege al puerta... Pasa atras, gire al otra carretera, y despues 2 km puerta de nueve... Tuve que regresar me muy lejos, toda rama en 20 km parece como callejon sin salida.</p>
+<p style="color: green;">Carreteras en campo no tienen ningun plan, ningunos indicadores, y que el mas horrible, cuando pase por una carretera 8 km, llege al puerta... Pasa atras, gire al otra carretera, y despues 2 km puerta de nuevo... Tuve que regresar me muy lejos, toda rama en 20 km parece como callejon sin salida.</p>
 
 <a href="/assets/step_1/DSCN0810.jpg"><img src="/assets/step_1/DSCN0810.jpg" width="640"></a>
 
@@ -136,7 +136,7 @@ Decidi unpoco pasar por carretera terrena en campo. Terreno aca - arenoso, en me
 
 Помучившись так еще, я решил поехать по трассе. Ветер был попутный, до 25 де Майо доехал быстро. По дороге машин было не много, но как на зло, грузовик идущий на встречу, всегда пересекался с грузовиком идущим позади как раз в месте где ехал я. Разъехаться в троем было невозможно, приходилось съезжать на обочину. Но надо сказать, культура вождения тут в среднем выше, чем в России, многие грузовики объезжают меня как машину, очень далеко, некоторые правда предпочитают сигналить прямо в ухо вынуждая спасаться бегством на обочину, но это скорее исключение. 
 
-<p style="color: green;">Atormenteme ya un poco, decidi andar por ruta. Hace viento favorable, llege a 25 de Mayo muy rapido. En camino no fueron muchas coches, pero como reglo, camion que pasa delantero siempre cruza con camion que pasa atras en punto donde paso yo. Cruzarse en tres en esa carretera imposible, tengo que llegar al margen. Hay que decir, que aca cultura de manejar en media mas alta que en Rusia, muchas camiones me adelantan como el coche, con granda distancia, pero en verdad no todos, unos prefirieron senalar a mi oreja, compeliendo selverme en margen, pero eso lo mas probable excepcion.</p>
+<p style="color: green;">Atormenteme ya un poco, decidi andar por ruta. Hace viento favorable, llege a 25 de Mayo muy rapido. En camino no fueron muchas coches, pero como regla, camion que pasa delantero siempre cruza con camion que pasa atras en punto donde paso yo. Cruzarse en tres en esa carretera imposible, tengo que llegar al margen. Hay que decir, que aca cultura de manejar en media mas alta que en Rusia, muchas camiones me adelantan como el coche, con granda distancia, pero en verdad no todos, unos prefirieron senalar a mi oreja, compeliendo selverme en margen, pero eso lo mas probable excepcion.</p>
 
 <a href="/assets/step_1/DSCN0819.jpg"><img src="/assets/step_1/DSCN0819.jpg" width="640"></a>
 
