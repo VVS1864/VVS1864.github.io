@@ -54,7 +54,7 @@ categories: trips
 Через несколько километров встретил ворота и какие-то строения, решил попроситься поставить палатку где-нибудь в сарае. Поначалу никого не обнаружил, но потом выбежал охранник и кажется испанским матом мне объяснил, чтобы я убирался отсюда поскорей, иначе он будет стрелять. 
 Делать нечего, промокший до нитки побрел под дождем дальше. Через километр были другие ворота, решил попробовать еще раз. Как обычно, посреди стоял дом хозяина этого поля, вокруг дома  прислуги и рабочих. В первом доме мне сказали, что надо поговорить с управляющим, его дом там-то. Пошел туда, в этот момент солнце садилось и красное сияние залило небо, очень красиво.
 
-<p style="color: green;">Unos kilometros despues encontre una puerta y enos edificios, decidi pedir armar carpa en algun galpon. Primero tiempo no fue nadie, pero despues llego un hombre y me ha dicho que en malos palabros que yo debo salir ahora mismo o en contra el va a disparar. </p>
+<p style="color: green;">Unos kilometros despues encontre una puerta y enos edificios, decidi pedir armar carpa en algun galpon. Primero tiempo no fue nadie, pero despues llego un hombre y me ha dicho en malos palabros que yo debo salir ahora mismo o en contra el va a disparar. </p>
 
 Управляющим оказался один парагваец, живущий тут со своей семьей. Меня приняли, сразу предложили душ, место где вещи просушить, попить, поесть... Какие все-таки разные тут живут люди. Из разговоров выяснил, что в этом хуторе работают 4 человека и живут тут со своими семьями.
 
