@@ -85,3 +85,5 @@ categories: trips
 <a href="/assets/casa_cipolletti/DSCN1527.jpg"><img src="/assets/casa_cipolletti/DSCN1527.jpg" width="640"></a>
 
 Дом в который меня пригласили распологался на краю города, и потребовалось проехать через весь город. Посмотрел на жд станцию. К моему удивлению она действовала. Правда поезда ходят ну очень редко.
+
+<a href="https://fotki.yandex.ru/users/simonovsen/album/220789/">Больше фоток - Mas fotos</a>
