@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 16 - Успайата - Uspallata
+title: 16 - Успайата - Калингаста - Uspallata - Calingasta
 categories: trips
 ---
 
