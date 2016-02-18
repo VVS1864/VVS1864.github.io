@@ -20,4 +20,4 @@ My email: simonovsen@yandex.ru
 
 My facebook: <a href="https://www.facebook.com/profile.php?id=100010020618583">Vlad Simonov</a>
 
-My facebook: <a href="http://vk.com/id332280668">Vlad Simonov</a>
+My vk: <a href="http://vk.com/id332280668">Vlad Simonov</a>
