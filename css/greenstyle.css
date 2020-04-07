@@ -22,19 +22,35 @@ article {
 	border: 2px solid green;
 	background: #333333;
 	color: white;
+	padding: 10px;
 	}
 li {
 	margin: 15px;
 	}
 p {
-   margin: 10px;
    color: white;
 	}
 a {
-   color: green;
+   color: lightgreen;
 	   }
 body {
 	background: #000000;
 	}
 h1 {margin: 10px;
+}
+TABLE {
+    border-collapse: collapse;
+   }
+TD, TH {
+    padding: 5px;
+    border: 2px solid;
+   }
+details {
+	padding: 10px;
+	}
+img {
+	background-color: #FFFFFF;
+	max-width:100%;
+	height:auto;
+	max-height:600px;
 }
